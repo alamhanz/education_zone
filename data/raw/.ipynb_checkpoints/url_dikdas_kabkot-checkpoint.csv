@@ -1,0 +1,524 @@
+provinsi,kab_kota,url
+Prov. Jawa Barat,Kab. Bogor,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/020500
+Prov. Jawa Barat,Kab. Garut,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/021100
+Prov. Jawa Barat,Kab. Bandung,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/020800
+Prov. Jawa Barat,Kab. Cianjur,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/020700
+Prov. Jawa Barat,Kab. Sukabumi,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/020600
+Prov. Jawa Barat,Kab. Bekasi,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/022200
+Prov. Jawa Barat,Kab. Tasikmalaya,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/021200
+Prov. Jawa Barat,Kab. Indramayu,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/021800
+Prov. Jawa Barat,Kab. Cirebon,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/021700
+Prov. Jawa Barat,Kota Bekasi,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/026500
+Prov. Jawa Barat,Kab. Karawang,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/022100
+Prov. Jawa Barat,Kab. Subang,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/021900
+Prov. Jawa Barat,Kab. Bandung Barat,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/022300
+Prov. Jawa Barat,Kota Bandung,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/026000
+Prov. Jawa Barat,Kab. Ciamis,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/021400
+Prov. Jawa Barat,Kota Depok,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/026600
+Prov. Jawa Barat,Kab. Majalengka,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/021600
+Prov. Jawa Barat,Kab. Sumedang,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/021000
+Prov. Jawa Barat,Kab. Kuningan,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/021500
+Prov. Jawa Barat,Kab. Purwakarta,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/022000
+Prov. Jawa Barat,Kota Bogor,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/026100
+Prov. Jawa Barat,Kota Tasikmalaya,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/026800
+Prov. Jawa Barat,Kab. Pangandaran,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/022500
+Prov. Jawa Barat,Kota Cirebon,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/026300
+Prov. Jawa Barat,Kota Sukabumi,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/026200
+Prov. Jawa Barat,Kota Cimahi,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/026700
+Prov. Jawa Barat,Kota Banjar,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/026900
+Prov. Jawa Timur,Kab. Malang,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/051800
+Prov. Jawa Timur,Kab. Jember,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/052400
+Prov. Jawa Timur,Kota Surabaya,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/056000
+Prov. Jawa Timur,Kab. Banyuwangi,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/052500
+Prov. Jawa Timur,Kab. Bangkalan,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/052900
+Prov. Jawa Timur,Kab. Sampang,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/052700
+Prov. Jawa Timur,Kab. Sumenep,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/052800
+Prov. Jawa Timur,Kab. Pasuruan,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/051900
+Prov. Jawa Timur,Kab. Probolinggo,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/052000
+Prov. Jawa Timur,Kab. Bojonegoro,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/050500
+Prov. Jawa Timur,Kab. Lamongan,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/050700
+Prov. Jawa Timur,Kab. Sidoarjo,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/050200
+Prov. Jawa Timur,Kab. Kediri,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/051300
+Prov. Jawa Timur,Kab. Pamekasan,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/052600
+Prov. Jawa Timur,Kab. Nganjuk,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/051400
+Prov. Jawa Timur,Kab. Blitar,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/051500
+Prov. Jawa Timur,Kab. Jombang,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/050400
+Prov. Jawa Timur,Kab. Tulungagung,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/051600
+Prov. Jawa Timur,Kab. Lumajang,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/052100
+Prov. Jawa Timur,Kab. Ponorogo,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/051100
+Prov. Jawa Timur,Kab. Tuban,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/050600
+Prov. Jawa Timur,Kab. Bondowoso,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/052200
+Prov. Jawa Timur,Kab. Gresik,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/050100
+Prov. Jawa Timur,Kab. Ngawi,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/050900
+Prov. Jawa Timur,Kab. Mojokerto,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/050300
+Prov. Jawa Timur,Kab. Magetan,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/051000
+Prov. Jawa Timur,Kab. Situbondo,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/052300
+Prov. Jawa Timur,Kab. Trenggalek,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/051700
+Prov. Jawa Timur,Kab. Pacitan,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/051200
+Prov. Jawa Timur,Kab. Madiun,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/050800
+Prov. Jawa Timur,Kota Malang,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/056100
+Prov. Jawa Timur,Kota Kediri,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/056300
+Prov. Jawa Timur,Kota Probolinggo,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/056700
+Prov. Jawa Timur,Kota Madiun,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/056200
+Prov. Jawa Timur,Kota Batu,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/056800
+Prov. Jawa Timur,Kota Pasuruan,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/056600
+Prov. Jawa Timur,Kota Blitar,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/056500
+Prov. Jawa Timur,Kota Mojokerto,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/056400
+Prov. Jawa Tengah,Kab. Cilacap,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/030100
+Prov. Jawa Tengah,Kab. Brebes,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/032900
+Prov. Jawa Tengah,Kab. Banyumas,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/030200
+Prov. Jawa Tengah,Kab. Grobogan,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/031500
+Prov. Jawa Tengah,Kab. Kebumen,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/030500
+Prov. Jawa Tengah,Kab. Klaten,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/031000
+Prov. Jawa Tengah,Kab. Wonogiri,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/031200
+Prov. Jawa Tengah,Kab. Pemalang,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/032700
+Prov. Jawa Tengah,Kab. Tegal,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/032800
+Prov. Jawa Tengah,Kota Semarang,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/036300
+Prov. Jawa Tengah,Kab. Pati,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/031800
+Prov. Jawa Tengah,Kab. Magelang,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/030800
+Prov. Jawa Tengah,Kab. Blora,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/031600
+Prov. Jawa Tengah,Kab. Boyolali,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/030900
+Prov. Jawa Tengah,Kab. Kendal,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/032400
+Prov. Jawa Tengah,Kab. Banjarnegara,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/030400
+Prov. Jawa Tengah,Kab. Jepara,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/032000
+Prov. Jawa Tengah,Kab. Sragen,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/031400
+Prov. Jawa Tengah,Kab. Purworejo,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/030600
+Prov. Jawa Tengah,Kab. Semarang,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/032200
+Prov. Jawa Tengah,Kab. Demak,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/032100
+Prov. Jawa Tengah,Kab. Pekalongan,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/032600
+Prov. Jawa Tengah,Kab. Karanganyar,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/031300
+Prov. Jawa Tengah,Kab. Wonosobo,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/030700
+Prov. Jawa Tengah,Kab. Sukoharjo,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/031100
+Prov. Jawa Tengah,Kab. Purbalingga,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/030300
+Prov. Jawa Tengah,Kab. Batang,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/032500
+Prov. Jawa Tengah,Kab. Temanggung,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/032300
+Prov. Jawa Tengah,Kab. Kudus,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/031900
+Prov. Jawa Tengah,Kab. Rembang,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/031700
+Prov. Jawa Tengah,Kota Surakarta,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/036100
+Prov. Jawa Tengah,Kota Tegal,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/036500
+Prov. Jawa Tengah,Kota Salatiga,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/036200
+Prov. Jawa Tengah,Kota Pekalongan,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/036400
+Prov. Jawa Tengah,Kota Magelang,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/036000
+Prov. Sumatera Utara,Kota Medan,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/076000
+Prov. Sumatera Utara,Kab. Deli Serdang,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/070100
+Prov. Sumatera Utara,Kab. Simalungun,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/070400
+Prov. Sumatera Utara,Kab. Langkat,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/070200
+Prov. Sumatera Utara,Kab. Serdang Bedagai,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/072100
+Prov. Sumatera Utara,Kab. Asahan,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/070600
+Prov. Sumatera Utara,Kab. Nias Selatan,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/071700
+Prov. Sumatera Utara,Kab. Mandailing Natal,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/071500
+Prov. Sumatera Utara,Kab. Tapanuli Utara,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/070800
+Prov. Sumatera Utara,Kab. Tapanuli Tengah,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/070900
+Prov. Sumatera Utara,Kab. Labuhan Batu,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/070700
+Prov. Sumatera Utara,Kab. Karo,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/070300
+Prov. Sumatera Utara,Kab. Labuhan Batu Utara,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/072500
+Prov. Sumatera Utara,Kab. Dairi,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/070500
+Prov. Sumatera Utara,Kab. Tapanuli Selatan,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/071000
+Prov. Sumatera Utara,Kab. Batubara,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/072200
+Prov. Sumatera Utara,Kab. Toba Samosir,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/071600
+Prov. Sumatera Utara,Kab. Humbang Hasudutan,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/071900
+Prov. Sumatera Utara,Kab. Labuhan Batu Selatan,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/072600
+Prov. Sumatera Utara,Kab. Padang Lawas utara,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/072300
+Prov. Sumatera Utara,Kota Pematangsiantar,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/076300
+Prov. Sumatera Utara,Kota Binjai,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/076100
+Prov. Sumatera Utara,Kab. Nias Utara,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/072800
+Prov. Sumatera Utara,Kab. Padang Lawas,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/072400
+Prov. Sumatera Utara,Kab. Samosir,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/072000
+Prov. Sumatera Utara,Kab. Nias,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/071100
+Prov. Sumatera Utara,Kab. Nias Barat,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/072700
+Prov. Sumatera Utara,Kota Gunungsitoli,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/076700
+Prov. Sumatera Utara,Kota Padang Sidimpuan,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/076600
+Prov. Sumatera Utara,Kota Tebing Tinggi,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/076200
+Prov. Sumatera Utara,Kota Tanjung Balai,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/076400
+Prov. Sumatera Utara,Kab. Pakpak Bharat,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/071800
+Prov. Sumatera Utara,Kota Sibolga,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/076500
+Prov. Sulawesi Selatan,Kota Makassar,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/196000
+Prov. Sulawesi Selatan,Kab. Bone,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/190700
+Prov. Sulawesi Selatan,Kab. Gowa,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/190300
+Prov. Sulawesi Selatan,Kab. Wajo,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/190800
+Prov. Sulawesi Selatan,Kab. Bulukumba,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/191100
+Prov. Sulawesi Selatan,Kab. Pangkajene Kepulauan,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/190200
+Prov. Sulawesi Selatan,Kab. Luwu,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/191700
+Prov. Sulawesi Selatan,Kab. Pinrang,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/191400
+Prov. Sulawesi Selatan,Kab. Jeneponto,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/190500
+Prov. Sulawesi Selatan,Kab. Maros,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/190100
+Prov. Sulawesi Selatan,Kab. Luwu Utara,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/192400
+Prov. Sulawesi Selatan,Kab. Tana Toraja,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/191800
+Prov. Sulawesi Selatan,Kab. Takalar,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/190400
+Prov. Sulawesi Selatan,Kab. Soppeng,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/190900
+Prov. Sulawesi Selatan,Kab. Sinjai,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/191200
+Prov. Sulawesi Selatan,Kab. Sidenreng Rappang,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/191500
+Prov. Sulawesi Selatan,Kab. Toraja Utara,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/192700
+Prov. Sulawesi Selatan,Kab. Enrekang,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/191600
+Prov. Sulawesi Selatan,Kab. Barru,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/190600
+Prov. Sulawesi Selatan,Kab. Luwu Timur,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/192600
+Prov. Sulawesi Selatan,Kab. Kepulauan Selayar,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/191300
+Prov. Sulawesi Selatan,Kab. Bantaeng,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/191000
+Prov. Sulawesi Selatan,Kota Parepare,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/196100
+Prov. Sulawesi Selatan,Kota Palopo,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/196200
+Prov. Nusa Tenggara Timur,Kab. Timor Tengah Selatan,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/240300
+Prov. Nusa Tenggara Timur,Kab. Kupang,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/240100
+Prov. Nusa Tenggara Timur,Kab. Manggarai Timur,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/242000
+Prov. Nusa Tenggara Timur,Kab. Sikka,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/240800
+Prov. Nusa Tenggara Timur,Kab. Ende,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/240900
+Prov. Nusa Tenggara Timur,Kab. Alor,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/240600
+Prov. Nusa Tenggara Timur,Kab. Sumba Barat Daya,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/241900
+Prov. Nusa Tenggara Timur,Kab. Timor Tengah Utara,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/240400
+Prov. Nusa Tenggara Timur,Kab. Manggarai Barat,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/241600
+Prov. Nusa Tenggara Timur,Kab. Flores Timur,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/240700
+Prov. Nusa Tenggara Timur,Kab. Sumba Timur,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/241200
+Prov. Nusa Tenggara Timur,Kab. Manggarai,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/241100
+Prov. Nusa Tenggara Timur,Kab. Malaka,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/242200
+Prov. Nusa Tenggara Timur,Kab. Ngada,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/241000
+Prov. Nusa Tenggara Timur,Kota Kupang,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/246000
+Prov. Nusa Tenggara Timur,Kab. Nagakeo,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/241700
+Prov. Nusa Tenggara Timur,Kab. Lembata,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/241400
+Prov. Nusa Tenggara Timur,Kab. Belu,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/240500
+Prov. Nusa Tenggara Timur,Kab. Rote-Ndao,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/241500
+Prov. Nusa Tenggara Timur,Kab. Sumba Barat,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/241300
+Prov. Nusa Tenggara Timur,Kab. Sumba Tengah,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/241800
+Prov. Nusa Tenggara Timur,Kab. Sabu Raijua,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/242100
+Prov. Banten,Kab. Tangerang,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/280300
+Prov. Banten,Kab. Pandeglang,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/280100
+Prov. Banten,Kab. Lebak,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/280200
+Prov. Banten,Kab. Serang,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/280400
+Prov. Banten,Kota Tangerang,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/286100
+Prov. Banten,Kota Tangerang Selatan,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/286300
+Prov. Banten,Kota Serang,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/286200
+Prov. Banten,Kota Cilegon,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/286000
+Prov. Lampung,Kab. Lampung Tengah,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/120200
+Prov. Lampung,Kab. Lampung Timur,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/120700
+Prov. Lampung,Kab. Lampung Selatan,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/120100
+Prov. Lampung,Kab. Lampung Utara,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/120300
+Prov. Lampung,Kab. Tanggamus,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/120600
+Prov. Lampung,Kota Bandar Lampung,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/126000
+Prov. Lampung,Kab. Way Kanan,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/120800
+Prov. Lampung,Kab. Pesawaran,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/120900
+Prov. Lampung,Kab. Pringsewu,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/121000
+Prov. Lampung,Kab. Tulang Bawang,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/120500
+Prov. Lampung,Kab. Lampung Barat,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/120400
+Prov. Lampung,Kab. Tulang Bawang Barat,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/121200
+Prov. Lampung,Kab. Mesuji,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/121100
+Prov. Lampung,Kab. Pesisir Barat,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/121300
+Prov. Lampung,Kota Metro,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/126100
+Prov. Sumatera Selatan,Kota Palembang,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/116000
+Prov. Sumatera Selatan,Kab. Musi Banyuasin,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/110100
+Prov. Sumatera Selatan,Kab. Banyuasin,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/110700
+Prov. Sumatera Selatan,Kab. Ogan Komering Ilir,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/110200
+Prov. Sumatera Selatan,Kab. Ogan Komering Ulu Timur,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/110800
+Prov. Sumatera Selatan,Kab. Muara Enim,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/110400
+Prov. Sumatera Selatan,Kab. Lahat,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/110500
+Prov. Sumatera Selatan,Kab. Musi Rawas,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/110600
+Prov. Sumatera Selatan,Kab. Ogan Ilir,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/111000
+Prov. Sumatera Selatan,Kab. Ogan Komering Ulu Selatan,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/110900
+Prov. Sumatera Selatan,Kab. Ogan Komering Ulu,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/110300
+Prov. Sumatera Selatan,Kab. Empat Lawang,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/111100
+Prov. Sumatera Selatan,Kab. Penukal Abab Lematang Ilir,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/111200
+Prov. Sumatera Selatan,Kota Lubuk Linggau,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/116200
+Prov. Sumatera Selatan,Kab. Musi Rawas Utara,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/111300
+Prov. Sumatera Selatan,Kota Prabumulih,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/116100
+Prov. Sumatera Selatan,Kota Pagar Alam,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/116300
+Prov. Kalimantan Barat,Kab. Ketapang,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/130600
+Prov. Kalimantan Barat,Kab. Sanggau,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/130300
+Prov. Kalimantan Barat,Kab. Kuburaya,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/131300
+Prov. Kalimantan Barat,Kab. Sintang,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/130400
+Prov. Kalimantan Barat,Kab. Landak,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/130900
+Prov. Kalimantan Barat,Kab. Sambas,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/130100
+Prov. Kalimantan Barat,Kab. Kapuas Hulu,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/130500
+Prov. Kalimantan Barat,Kab. Melawi,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/131100
+Prov. Kalimantan Barat,Kab. Bengkayang,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/130800
+Prov. Kalimantan Barat,Kota Pontianak,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/136000
+Prov. Kalimantan Barat,Kab. Sekadau,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/131000
+Prov. Kalimantan Barat,Kab. Mempawah,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/130200
+Prov. Kalimantan Barat,Kota Singkawang,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/136100
+Prov. Kalimantan Barat,Kab. Kayong Utara,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/131200
+Prov. Sumatera Barat,Kota Padang,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/086100
+Prov. Sumatera Barat,Kab. Agam,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/080100
+Prov. Sumatera Barat,Kab. Pesisir Selatan,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/080600
+Prov. Sumatera Barat,Kab. Padang Pariaman,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/080500
+Prov. Sumatera Barat,Kab. Solok,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/080400
+Prov. Sumatera Barat,Kab. Lima Puluh Koto,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/080300
+Prov. Sumatera Barat,Kab. Tanah Datar,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/080700
+Prov. Sumatera Barat,Kab. Pasaman Barat,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/081300
+Prov. Sumatera Barat,Kab. Pasaman,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/080200
+Prov. Sumatera Barat,Kab. Sijunjung,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/080800
+Prov. Sumatera Barat,Kab. Dharmasraya,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/081200
+Prov. Sumatera Barat,Kab. Solok Selatan,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/081100
+Prov. Sumatera Barat,Kab. Kepulauan Mentawai,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/081000
+Prov. Sumatera Barat,Kota Payakumbuh,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/086500
+Prov. Sumatera Barat,Kota Pariaman,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/086600
+Prov. Sumatera Barat,Kota Bukittinggi,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/086000
+Prov. Sumatera Barat,Kota Sawah Lunto,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/086300
+Prov. Sumatera Barat,Kota Padang Panjang,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/086200
+Prov. Sumatera Barat,Kota Solok,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/086400
+Prov. Riau,Kab. Indragiri Hilir,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/090500
+Prov. Riau,Kab. Kampar,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/090100
+Prov. Riau,Kab. Rokan Hilir,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/091000
+Prov. Riau,Kota Pekanbaru,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/096000
+Prov. Riau,Kab. Rokan Hulu,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/090900
+Prov. Riau,Kab. Bengkalis,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/090200
+Prov. Riau,Kab. Indragiri Hulu,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/090400
+Prov. Riau,Kab. Siak,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/091100
+Prov. Riau,Kab. Kuantan Singingi,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/091400
+Prov. Riau,Kab. Pelalawan,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/090800
+Prov. Riau,Kab. Kepulauan Meranti,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/091500
+Prov. Riau,Kota Dumai,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/096200
+Prov. Aceh,Kab. Aceh Utara,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/060300
+Prov. Aceh,Kab. Aceh Timur,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/060400
+Prov. Aceh,Kab. Pidie,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/060200
+Prov. Aceh,Kab. Bireuen,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/061200
+Prov. Aceh,Kab. Aceh Besar,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/060100
+Prov. Aceh,Kab. Aceh Selatan,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/060700
+Prov. Aceh,Kab. Aceh Tenggara,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/060800
+Prov. Aceh,Kab. Aceh Tengah,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/060500
+Prov. Aceh,Kab. Aceh Tamiang,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/061400
+Prov. Aceh,Kab. Aceh Barat,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/060600
+Prov. Aceh,Kab. Bener Meriah,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/061900
+Prov. Aceh,Kab. Nagan Raya,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/061500
+Prov. Aceh,Kab. Simeulue,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/061100
+Prov. Aceh,Kota Banda Aceh,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/066100
+Prov. Aceh,Kab. Aceh Singkil,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/061300
+Prov. Aceh,Kab. Aceh Barat Daya,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/061700
+Prov. Aceh,Kab. Aceh Jaya,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/061600
+Prov. Aceh,Kab. Pidie Jaya,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/062000
+Prov. Aceh,Kab. Gayo Lues,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/061800
+Prov. Aceh,Kota Subulussalam,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/066400
+Prov. Aceh,Kota Lhokseumawe,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/066200
+Prov. Aceh,Kota Langsa,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/066300
+Prov. Aceh,Kota Sabang,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/066000
+Prov. Nusa Tenggara Barat,Kab. Lombok Timur,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/230300
+Prov. Nusa Tenggara Barat,Kab. Lombok Tengah,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/230200
+Prov. Nusa Tenggara Barat,Kab. Bima,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/230600
+Prov. Nusa Tenggara Barat,Kab. Sumbawa,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/230400
+Prov. Nusa Tenggara Barat,Kab. Lombok Barat,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/230100
+Prov. Nusa Tenggara Barat,Kab. Dompu,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/230500
+Prov. Nusa Tenggara Barat,Kota Mataram,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/236000
+Prov. Nusa Tenggara Barat,Kab. Lombok Utara,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/230800
+Prov. Nusa Tenggara Barat,Kab. Sumbawa Barat,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/230700
+Prov. Nusa Tenggara Barat,Kota Bima,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/236100
+Prov. D.K.I. Jakarta,Kota Jakarta Timur,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/016400
+Prov. D.K.I. Jakarta,Kota Jakarta Barat,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/016200
+Prov. D.K.I. Jakarta,Kota Jakarta Selatan,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/016300
+Prov. D.K.I. Jakarta,Kota Jakarta Utara,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/016100
+Prov. D.K.I. Jakarta,Kota Jakarta Pusat,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/016000
+Prov. D.K.I. Jakarta,Kab. Kepulauan Seribu,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/010100
+Prov. Sulawesi Tengah,Kab. Parigi Moutong,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/180800
+Prov. Sulawesi Tengah,Kab. Banggai,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/180400
+Prov. Sulawesi Tengah,Kab. Donggala,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/180200
+Prov. Sulawesi Tengah,Kab. Sigi,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/181000
+Prov. Sulawesi Tengah,Kab. Poso,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/180300
+Prov. Sulawesi Tengah,Kab. Tolitoli,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/180600
+Prov. Sulawesi Tengah,Kota Palu,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/186000
+Prov. Sulawesi Tengah,Kab. Tojo Una-Una,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/180900
+Prov. Sulawesi Tengah,Kab. Banggai Kepulauan,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/180100
+Prov. Sulawesi Tengah,Kab. Buol,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/180500
+Prov. Sulawesi Tengah,Kab. Morowali Utara,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/181200
+Prov. Sulawesi Tengah,Kab. Morowali,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/180700
+Prov. Sulawesi Tengah,Kab. Banggai Laut,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/181100
+Prov. Kalimantan Selatan,Kab. Banjar,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/150100
+Prov. Kalimantan Selatan,Kota Banjarmasin,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/156000
+Prov. Kalimantan Selatan,Kab. Kotabaru,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/150900
+Prov. Kalimantan Selatan,Kab. Barito Kuala,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/150300
+Prov. Kalimantan Selatan,Kab. Hulu Sungai Tengah,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/150600
+Prov. Kalimantan Selatan,Kab. Tanah Laut,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/150200
+Prov. Kalimantan Selatan,Kab. Tabalong,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/150800
+Prov. Kalimantan Selatan,Kab. Hulu Sungai Selatan,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/150500
+Prov. Kalimantan Selatan,Kab. Tanah Bumbu,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/151100
+Prov. Kalimantan Selatan,Kab. Hulu Sungai Utara,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/150700
+Prov. Kalimantan Selatan,Kab. Tapin,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/150400
+Prov. Kalimantan Selatan,Kab. Balangan,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/151000
+Prov. Kalimantan Selatan,Kota Banjarbaru,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/156100
+Prov. Kalimantan Tengah,Kab. Kapuas,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/140100
+Prov. Kalimantan Tengah,Kab. Kotawaringin Timur,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/140400
+Prov. Kalimantan Tengah,Kab. Katingan,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/140600
+Prov. Kalimantan Tengah,Kab. Kotawaringin Barat,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/140500
+Prov. Kalimantan Tengah,Kab. Murung Raya,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/141200
+Prov. Kalimantan Tengah,Kab. Barito Selatan,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/140200
+Prov. Kalimantan Tengah,Kab. Gunung Mas,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/141000
+Prov. Kalimantan Tengah,Kab. Pulang Pisau,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/141100
+Prov. Kalimantan Tengah,Kab. Seruyan,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/140700
+Prov. Kalimantan Tengah,Kab. Barito Utara,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/140300
+Prov. Kalimantan Tengah,Kota Palangka Raya,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/146000
+Prov. Kalimantan Tengah,Kab. Barito Timur,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/141300
+Prov. Kalimantan Tengah,Kab. Lamandau,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/140900
+Prov. Kalimantan Tengah,Kab. Sukamara,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/140800
+Prov. Papua,Kab. Merauke,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/250700
+Prov. Papua,Kab. Biak Numfor,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/250200
+Prov. Papua,Kab. Mimika,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/251200
+Prov. Papua,Kab. Yahukimo,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/251600
+Prov. Papua,Kab. Nabire,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/250900
+Prov. Papua,Kab. Jayapura,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/250100
+Prov. Papua,Kab. Mappi,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/251400
+Prov. Papua,Kab. Jaya Wijaya,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/250800
+Prov. Papua,Kota Jayapura,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/256000
+Prov. Papua,Kab. Kepulauan Yapen,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/250300
+Prov. Papua,Kab. Asmat,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/251500
+Prov. Papua,Kab. Boven Digoel,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/251300
+Prov. Papua,Kab. Paniai,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/251000
+Prov. Papua,Kab. Lanny Jaya,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/253000
+Prov. Papua,Kab. Tolikara,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/251800
+Prov. Papua,Kab. Keerom,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/252000
+Prov. Papua,Kab. Memberamo Raya,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/252800
+Prov. Papua,Kab. Sarmi,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/251900
+Prov. Papua,Kab. Pegunungan Bintang,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/251700
+Prov. Papua,Kab. Dogiyai,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/253400
+Prov. Papua,Kab. Waropen,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/252600
+Prov. Papua,Kab. Yalimo,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/253200
+Prov. Papua,Kab. Deiyai,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/253500
+Prov. Papua,Kab. Supiori,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/252700
+Prov. Papua,Kab. Membramo Tengah,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/253100
+Prov. Papua,kab. Puncak,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/253300
+Prov. Papua,Kab. Intan Jaya,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/253600
+Prov. Papua,Kab. Nduga,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/252900
+Prov. Papua,Kab. Puncak Jaya,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/251100
+Prov. Sulawesi Tenggara,Kab. Konawe Selatan,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/200500
+Prov. Sulawesi Tenggara,Kab. Konawe,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/200100
+Prov. Sulawesi Tenggara,Kab. Muna,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/200200
+Prov. Sulawesi Tenggara,Kab. Kolaka,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/200400
+Prov. Sulawesi Tenggara,Kab. Bombana,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/200700
+Prov. Sulawesi Tenggara,Kota Kendari,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/206000
+Prov. Sulawesi Tenggara,Kab. Kolaka Timur,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/201100
+Prov. Sulawesi Tenggara,Kab. Buton,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/200300
+Prov. Sulawesi Tenggara,Kab. Wakatobi,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/200600
+Prov. Sulawesi Tenggara,Kab. Buton Tengah,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/201600
+Prov. Sulawesi Tenggara,Kab. Kolaka Utara,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/200800
+Prov. Sulawesi Tenggara,Kab. Muna Barat,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/201300
+Prov. Sulawesi Tenggara,Kab. Konawe Utara,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/200900
+Prov. Sulawesi Tenggara,Kab. Buton Utara,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/201000
+Prov. Sulawesi Tenggara,Kota Baubau,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/206100
+Prov. Sulawesi Tenggara,Kab. Buton Selatan,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/201400
+Prov. Sulawesi Tenggara,Kab. Konawe Kepulauan,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/201200
+Prov. Jambi,Kab. Merangin,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/100900
+Prov. Jambi,Kota Jambi,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/106000
+Prov. Jambi,Kab. Muaro Jambi,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/100700
+Prov. Jambi,Kab. Tebo,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/100600
+Prov. Jambi,Kab. Sarolangun,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/100300
+Prov. Jambi,Kab. Bungo,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/100200
+Prov. Jambi,Kab. Tanjung Jabung Barat,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/100400
+Prov. Jambi,Kab. Kerinci,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/100500
+Prov. Jambi,Kab. Batang Hari,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/100100
+Prov. Jambi,Kab. Tanjung Jabung Timur,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/100800
+Prov. Jambi,Kota Sungai Penuh,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/106100
+Prov. Sulawesi Utara,Kab. Minahasa,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/170200
+Prov. Sulawesi Utara,Kota Manado,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/176000
+Prov. Sulawesi Utara,Kab. Minahasa Selatan,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/170500
+Prov. Sulawesi Utara,Kab. Bolaang Mongondow,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/170100
+Prov. Sulawesi Utara,Kab. Minahasa Utara,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/170600
+Prov. Sulawesi Utara,Kab. Kep. Sangihe,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/170300
+Prov. Sulawesi Utara,Kab. Kepulauan Talaud,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/170400
+Prov. Sulawesi Utara,Kota Bitung,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/176100
+Prov. Sulawesi Utara,Kab. Minahasa Tenggara,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/171000
+Prov. Sulawesi Utara,Kab. Kepulauan Siau Tagulandang Biaro,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/170900
+Prov. Sulawesi Utara,Kab. Bolaang Mongondow Utara,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/170800
+Prov. Sulawesi Utara,Kota Tomohon,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/176200
+Prov. Sulawesi Utara,Kota Kotamobagu,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/176300
+Prov. Sulawesi Utara,Kab. Bolaang Mongondow Selatan,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/171200
+Prov. Sulawesi Utara,Kab. Bolaang Mongondow Timur,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/171100
+Prov. Bali,Kab. Buleleng,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/220100
+Prov. Bali,Kab. Karang Asem,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/220800
+Prov. Bali,Kab. Badung,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/220400
+Prov. Bali,Kab. Tabanan,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/220300
+Prov. Bali,Kab. Gianyar,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/220500
+Prov. Bali,Kota Denpasar,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/226000
+Prov. Bali,Kab. Jembrana,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/220200
+Prov. Bali,Kab. Bangli,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/220700
+Prov. Bali,Kab. Klungkung,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/220600
+Prov. Kalimantan Timur,Kab. Kutai Kartanegara,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/160200
+Prov. Kalimantan Timur,Kota Samarinda,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/166000
+Prov. Kalimantan Timur,Kab. Kutai Timur,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/161000
+Prov. Kalimantan Timur,Kab. Paser,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/160100
+Prov. Kalimantan Timur,Kota Balikpapan,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/166100
+Prov. Kalimantan Timur,Kab. Kutai Barat,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/160900
+Prov. Kalimantan Timur,Kab. Berau,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/160300
+Prov. Kalimantan Timur,Kab. Penajam Paser Utara,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/161100
+Prov. Kalimantan Timur,Kota Bontang,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/166300
+Prov. Kalimantan Timur,Kab. Mahakam Ulu,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/161200
+Prov. Maluku,Kab. Maluku Tengah,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/210100
+Prov. Maluku,Kab. Seram Bagian Barat,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/210500
+Prov. Maluku,Kota Ambon,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/216000
+Prov. Maluku,Kab. Maluku Barat Daya,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/210800
+Prov. Maluku,Kab. Seram Bagian Timur,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/210600
+Prov. Maluku,Kab. Buru,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/210300
+Prov. Maluku,Kab. Maluku Tenggara,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/210200
+Prov. Maluku,Kab. Maluku Tenggara Barat,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/210400
+Prov. Maluku,Kab. Kepulauan Aru,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/210700
+Prov. Maluku,Kab. Buru Selatan,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/210900
+Prov. Maluku,Kota Tual,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/216100
+Prov. D.I. Yogyakarta,Kab. Sleman,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/040200
+Prov. D.I. Yogyakarta,Kab. Gunung Kidul,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/040300
+Prov. D.I. Yogyakarta,Kab. Bantul,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/040100
+Prov. D.I. Yogyakarta,Kab. Kulon Progo,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/040400
+Prov. D.I. Yogyakarta,Kota Yogyakarta,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/046000
+Prov. Maluku Utara,Kab. Halmahera Selatan,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/270500
+Prov. Maluku Utara,Kab. halmahera Utara,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/270400
+Prov. Maluku Utara,Kab. Halmahera Barat,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/270300
+Prov. Maluku Utara,Kab. Kepulauan Sula,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/270700
+Prov. Maluku Utara,Kota Ternate,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/276000
+Prov. Maluku Utara,Kota Tidore Kepulauan,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/276100
+Prov. Maluku Utara,Kab. Halmahera Timur,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/270600
+Prov. Maluku Utara,Kab. Pulau Taliabu,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/270100
+Prov. Maluku Utara,Kab. Kepulauan Morotai,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/270800
+Prov. Maluku Utara,Kab. Halmahera Tengah,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/270200
+Prov. Bengkulu,Kab. Bengkulu Utara,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/260100
+Prov. Bengkulu,Kab. Rejang Lebong,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/260200
+Prov. Bengkulu,Kab. Seluma,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/260800
+Prov. Bengkulu,Kab. Muko-muko,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/260400
+Prov. Bengkulu,Kota Bengkulu,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/266000
+Prov. Bengkulu,Kab. Kaur,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/260700
+Prov. Bengkulu,Kab. Bengkulu Selatan,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/260300
+Prov. Bengkulu,Kab. Kepahiang,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/260500
+Prov. Bengkulu,Kab. Bengkulu Tengah,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/260900
+Prov. Bengkulu,Kab. Lebong,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/260600
+Prov. Sulawesi Barat,Kab. Polewali Mandar,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/330300
+Prov. Sulawesi Barat,Kab. Mamuju,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/330100
+Prov. Sulawesi Barat,Kab. Mamasa,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/330400
+Prov. Sulawesi Barat,Kab. Majene,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/330500
+Prov. Sulawesi Barat,Kab. Pasangkayu,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/330200
+Prov. Sulawesi Barat,Kab. Mamuju Tengah,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/330600
+Prov. Kepulauan Riau,Kota Batam,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/316000
+Prov. Kepulauan Riau,Kab. Karimun,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/310200
+Prov. Kepulauan Riau,Kab. Lingga,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/310400
+Prov. Kepulauan Riau,Kab. Bintan,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/310100
+Prov. Kepulauan Riau,Kab. Natuna,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/310300
+Prov. Kepulauan Riau,Kota Tanjungpinang,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/316100
+Prov. Kepulauan Riau,Kab. Kepulauan Anambas,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/310500
+Prov. Papua Barat,Kab. Sorong,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/320700
+Prov. Papua Barat,Kab. Manokwari,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/320500
+Prov. Papua Barat,Kab. Raja Ampat,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/320800
+Prov. Papua Barat,Kota Sorong,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/326000
+Prov. Papua Barat,Kab. Fak-Fak,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/320100
+Prov. Papua Barat,Kab. Teluk Bintuni,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/320400
+Prov. Papua Barat,Kab. Sorong Selatan,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/320600
+Prov. Papua Barat,Kab. Kaimana,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/320200
+Prov. Papua Barat,Kab. Pegunungan Arfak,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/321100
+Prov. Papua Barat,Kab. Tambrauw,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/320900
+Prov. Papua Barat,Kab. Maybrat,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/321000
+Prov. Papua Barat,Kab. Teluk Wondama,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/320300
+Prov. Papua Barat,Kab. Manokwari Selatan,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/321200
+Prov. Gorontalo,Kab. Gorontalo,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/300200
+Prov. Gorontalo,Kab. Boalemo,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/300100
+Prov. Gorontalo,Kab. Gorontalo Utara,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/300500
+Prov. Gorontalo,Kab. Pohuwato,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/300300
+Prov. Gorontalo,Kab. Bone Bolango,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/300400
+Prov. Gorontalo,Kota Gorontalo,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/306000
+Prov. Kepulauan Bangka Belitung,Kab. Bangka,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/290100
+Prov. Kepulauan Bangka Belitung,Kab. Bangka Barat,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/290400
+Prov. Kepulauan Bangka Belitung,Kab. Belitung,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/290200
+Prov. Kepulauan Bangka Belitung,Kab. Belitung Timur,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/290600
+Prov. Kepulauan Bangka Belitung,Kab. Bangka Selatan,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/290500
+Prov. Kepulauan Bangka Belitung,Kab. Bangka Tengah,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/290300
+Prov. Kepulauan Bangka Belitung,Kota Pangkalpinang,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/296000
+Prov. Kalimantan Utara,Kab. Bulungan,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/340200
+Prov. Kalimantan Utara,Kab. Nunukan,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/340500
+Prov. Kalimantan Utara,Kab. Malinau,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/340100
+Prov. Kalimantan Utara,Kota Tarakan,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/346000
+Prov. Kalimantan Utara,Kab. Tana Tidung,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/340300
+Luar Negeri,Malaysia,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/350400
+Luar Negeri,Arab Saudi,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/350800
+Luar Negeri,Filipina,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/350600
+Luar Negeri,Japan,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/350200
+Luar Negeri,Belanda,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/350100
+Luar Negeri,Mesir,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/350300
+Luar Negeri,Myanmar,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/350500
+Luar Negeri,Singapura,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/351000
+Luar Negeri,Thailand,http://dapo.dikdasmen.kemdikbud.go.id/sp/2/351200

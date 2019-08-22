@@ -1,0 +1,22 @@
+template source : https://drivendata.github.io/cookiecutter-data-science/
+
+
+
+http://comet.lehman.cuny.edu/owen/teaching/datasci/voronoiLab.html
+https://www.kdnuggets.com/2018/09/visualising-geospatial-data-python-folium.html
+https://blog.dominodatalab.com/creating-interactive-crime-maps-with-folium/
+https://python-graph-gallery.com/312-add-markers-on-folium-map/
+https://gadm.org/download_country_v3.html
+http://www.diva-gis.org/gdata
+https://fkip.untan.ac.id/prodi/agusnepster/2017/09/07/peta-shp-se-indonesia/
+https://pypi.org/project/geovoronoi/
+https://stackoverflow.com/questions/20515554/colorize-voronoi-diagram
+https://rosettacode.org/wiki/Voronoi_diagram#Python
+https://docs.scipy.org/doc/scipy-0.18.1/reference/generated/scipy.spatial.Voronoi.html
+https://medium.com/@chrieke/essential-geospatial-python-libraries-5d82fcc38731
+https://towardsdatascience.com/lets-make-a-map-using-geopandas-pandas-and-matplotlib-to-make-a-chloropleth-map-dddc31c1983d
+https://chrishavlin.com/2016/11/16/shapefiles-tutorial/
+http://geopandas.org/gallery/plotting_with_geoplot.html
+
+http://referensi.data.kemdikbud.go.id/index.php
+http://sekolah.data.kemdikbud.go.id/
