@@ -1,0 +1,75 @@
+provinsi,kab_kota,kecamatan,nama_sekolah,npsn,bp,status,last_sync,jml_sync,pd,rombel,guru,pegawai,ruang_kelas,ruang_lab,ruang_perpus,url_sekolah
+Prov. Jawa Barat,Kab. Tasikmalaya,Kec. Karangnunggal,SD N 1 CIBATU,20262422,SD,Negeri,-,0,0,0,0,0,7,0,0,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/896BD5618DEE2BE1F7E1
+Prov. Jawa Barat,Kab. Tasikmalaya,Kec. Karangnunggal,SD N 1 CIKUKULU ,20210409,SD,Negeri,-,0,0,0,0,0,6,0,0,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/C379F2FEEADCC4155254
+Prov. Jawa Barat,Kab. Tasikmalaya,Kec. Karangnunggal,SD N 1 KARANGNUNGGAL,20210073,SD,Negeri,-,0,0,0,0,0,6,1,1,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/696B268219A74F404E56
+Prov. Jawa Barat,Kab. Tasikmalaya,Kec. Karangnunggal,SD N 1 KUJANG,20210137,SD,Negeri,-,0,0,0,0,0,7,0,0,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/117385CB01B0A1447A0E
+Prov. Jawa Barat,Kab. Tasikmalaya,Kec. Karangnunggal,SD N 2 CACABAN,20262508,SD,Negeri,-,0,0,0,0,0,6,0,0,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/BBCB9C361860DCF581A3
+Prov. Jawa Barat,Kab. Tasikmalaya,Kec. Karangnunggal,SD N 3 KARANGNUNGGAL ,20210157,SD,Negeri,-,0,0,0,0,0,8,0,0,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/795A6C0002DE9EFCF47B
+Prov. Jawa Barat,Kab. Tasikmalaya,Kec. Karangnunggal,SD N CACABAN 1,20210515,SD,Negeri,-,0,0,0,0,0,6,0,1,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/80D80E1A8551FD2393AB
+Prov. Jawa Barat,Kab. Tasikmalaya,Kec. Karangnunggal,SD N CIAWI III,20262593,SD,Negeri,-,0,0,0,0,0,6,0,1,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/6909E8F62CE9BA6E7414
+Prov. Jawa Barat,Kab. Tasikmalaya,Kec. Karangnunggal,SD N CIAWITALI,20210496,SD,Negeri,-,0,0,0,0,0,6,0,2,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/B408DF76A620B8B90635
+Prov. Jawa Barat,Kab. Tasikmalaya,Kec. Karangnunggal,SD N CINTALAKSANA,20210689,SD,Negeri,-,0,0,0,0,0,6,0,0,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/E0323BF15BA1D2EF5AB4
+Prov. Jawa Barat,Kab. Tasikmalaya,Kec. Karangnunggal,SD N CINTAWANGI,20210682,SD,Negeri,-,0,0,0,0,0,6,0,1,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/861D23378071876AB1AC
+Prov. Jawa Barat,Kab. Tasikmalaya,Kec. Karangnunggal,SD N CIPANYARANG,20210658,SD,Negeri,-,0,0,0,0,0,6,0,1,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/E55C545A1FDFF89685DE
+Prov. Jawa Barat,Kab. Tasikmalaya,Kec. Karangnunggal,SD N JAYAMUKTI,20210113,SD,Negeri,-,0,0,0,0,0,10,0,1,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/CF1B845A79587A9DA19E
+Prov. Jawa Barat,Kab. Tasikmalaya,Kec. Karangnunggal,SD N KARANGMULYA,20210085,SD,Negeri,-,0,0,0,0,0,6,0,0,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/7D31E7AF72EA42002A3A
+Prov. Jawa Barat,Kab. Tasikmalaya,Kec. Karangnunggal,SD N KARANGSARI,20210153,SD,Negeri,-,0,0,0,0,0,6,0,0,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/EAD5ED40E960C85FA644
+Prov. Jawa Barat,Kab. Tasikmalaya,Kec. Karangnunggal,SD N KIARALAWANG,20210132,SD,Negeri,-,0,0,0,0,0,6,0,0,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/19F77B25FEE5CB87321D
+Prov. Jawa Barat,Kab. Tasikmalaya,Kec. Karangnunggal,SD N MEKARJAYA,20210030,SD,Negeri,-,0,0,0,0,0,6,0,0,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/1AFA97F518C4B46AC33F
+Prov. Jawa Barat,Kab. Tasikmalaya,Kec. Karangnunggal,SD N NEGLASARI,20210282,SD,Negeri,-,0,0,0,0,0,6,0,0,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/1DA5846BDB63872D0064
+Prov. Jawa Barat,Kab. Tasikmalaya,Kec. Karangnunggal,SD N PAGUYUBAN,20210273,SD,Negeri,-,0,0,0,0,0,6,0,1,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/06507FDC8BCA854895AD
+Prov. Jawa Barat,Kab. Tasikmalaya,Kec. Karangnunggal,SD N SANTRIJAYA,20210257,SD,Negeri,-,0,0,0,0,0,6,0,0,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/872DB47E5943E638D6E6
+Prov. Jawa Barat,Kab. Tasikmalaya,Kec. Karangnunggal,SD N SIRNASARI,20229440,SD,Negeri,-,0,0,0,0,0,5,0,0,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/E54B714F2230743760B9
+Prov. Jawa Barat,Kab. Tasikmalaya,Kec. Karangnunggal,SD N SITUGEDE,20210934,SD,Negeri,-,0,0,0,0,0,6,1,1,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/A24FD84631649E977CC5
+Prov. Jawa Barat,Kab. Tasikmalaya,Kec. Karangnunggal,SD N SUKASARI,20210985,SD,Negeri,-,0,0,0,0,0,6,0,0,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/F4E001A3ED6547BEE567
+Prov. Jawa Barat,Kab. Tasikmalaya,Kec. Karangnunggal,SD N SUKAWANGI 1,20211008,SD,Negeri,-,0,0,0,0,0,6,0,0,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/15FE8F97D3603FFC7DCA
+Prov. Jawa Barat,Kab. Tasikmalaya,Kec. Karangnunggal,SD N SUKAWANGUN,20211010,SD,Negeri,-,0,0,0,0,0,6,0,0,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/19326A0E0C5C6E96FB8F
+Prov. Jawa Barat,Kab. Tasikmalaya,Kec. Karangnunggal,SD N TENJOSARI,20210968,SD,Negeri,-,0,0,0,0,0,6,0,0,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/94D7EDFD2AE226D015B8
+Prov. Jawa Barat,Kab. Tasikmalaya,Kec. Karangnunggal,SD N WANASARI,20210755,SD,Negeri,-,0,0,0,0,0,7,0,0,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/2C9B7DEA5E11DD7E033C
+Prov. Jawa Barat,Kab. Tasikmalaya,Kec. Karangnunggal,SD N Wangun,20210752,SD,Negeri,-,0,0,0,0,0,6,0,1,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/C9A26B37946B24361515
+Prov. Jawa Barat,Kab. Tasikmalaya,Kec. Karangnunggal,SD NEGERI 1 CIBATUIRENG,20210381,SD,Negeri,-,0,0,0,0,0,7,0,0,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/D03310AA58D2841436C4
+Prov. Jawa Barat,Kab. Tasikmalaya,Kec. Karangnunggal,SD NEGERI 2 CIAWI,20262511,SD,Negeri,-,0,0,0,0,0,6,0,0,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/DD7F618313A04440293A
+Prov. Jawa Barat,Kab. Tasikmalaya,Kec. Karangnunggal,SD NEGERI 4 KARANGNUNGGAL,20262641,SD,Negeri,-,0,0,0,0,0,7,0,1,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/E2B2B665862995F02734
+Prov. Jawa Barat,Kab. Tasikmalaya,Kec. Karangnunggal,SD NEGERI 5 CIAWI,20229280,SD,Negeri,-,0,0,0,0,0,7,0,0,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/6F248190CE78E29E5EDD
+Prov. Jawa Barat,Kab. Tasikmalaya,Kec. Karangnunggal,SD NEGERI BANYUWARAS,20210460,SD,Negeri,-,0,0,0,0,0,6,0,1,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/6C87E7AF71AE0F3C01C2
+Prov. Jawa Barat,Kab. Tasikmalaya,Kec. Karangnunggal,SD NEGERI BOJONG JAYA,20210436,SD,Negeri,-,0,0,0,0,0,6,0,0,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/BA0B793A9967907DE188
+Prov. Jawa Barat,Kab. Tasikmalaya,Kec. Karangnunggal,SD NEGERI CIAWI I,20229276,SD,Negeri,-,0,0,0,0,0,12,0,0,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/A64E893F10A80889BFB4
+Prov. Jawa Barat,Kab. Tasikmalaya,Kec. Karangnunggal,SD NEGERI CIAWI IV,20229275,SD,Negeri,-,0,0,0,0,0,6,0,0,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/EA59CA3EC9CC6D730365
+Prov. Jawa Barat,Kab. Tasikmalaya,Kec. Karangnunggal,SD NEGERI CIBATUIRENG 2,20210374,SD,Negeri,-,0,0,0,0,0,6,0,0,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/C3A81A7B24A2F03F1841
+Prov. Jawa Barat,Kab. Tasikmalaya,Kec. Karangnunggal,SD NEGERI CIDADAP,20210353,SD,Negeri,-,0,0,0,0,0,8,0,1,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/ED180FF889EBB3D76FE7
+Prov. Jawa Barat,Kab. Tasikmalaya,Kec. Karangnunggal,SD NEGERI CILANGKAP,20210642,SD,Negeri,-,0,0,0,0,0,6,0,0,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/32BB4A4C5CD540600436
+Prov. Jawa Barat,Kab. Tasikmalaya,Kec. Karangnunggal,SD NEGERI CIMINDI,20210615,SD,Negeri,-,0,0,0,0,0,7,0,0,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/7B509A4A04544F869546
+Prov. Jawa Barat,Kab. Tasikmalaya,Kec. Karangnunggal,SD NEGERI GANDAMEKAR,20210593,SD,Negeri,-,0,0,0,0,0,6,0,0,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/6910E585F42A8A73C3B6
+Prov. Jawa Barat,Kab. Tasikmalaya,Kec. Karangnunggal,SD NEGERI HEGARSARI,20210584,SD,Negeri,-,0,0,0,0,0,6,0,1,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/4036463FE0A56408626B
+Prov. Jawa Barat,Kab. Tasikmalaya,Kec. Karangnunggal,SD NEGERI MEKARSARI,20210039,SD,Negeri,-,0,0,0,0,0,6,0,0,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/1F0F07F935FA69DC06A8
+Prov. Jawa Barat,Kab. Tasikmalaya,Kec. Karangnunggal,SD NEGERI MUKTISARI,20210029,SD,Negeri,-,0,0,0,0,0,6,0,1,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/199E570BD1E322554EE8
+Prov. Jawa Barat,Kab. Tasikmalaya,Kec. Karangnunggal,SD NEGERI SINDANGSARI,20210922,SD,Negeri,-,0,0,0,0,0,6,0,0,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/29228A035510AA060577
+Prov. Jawa Barat,Kab. Tasikmalaya,Kec. Karangnunggal,SD NEGERI SUKARAME,20210984,SD,Negeri,-,0,0,0,0,0,6,0,0,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/EBC673550DD1F211E3B2
+Prov. Jawa Barat,Kab. Tasikmalaya,Kec. Karangnunggal,SDN 2 CIKUKULU,20229293,SD,Negeri,-,0,0,0,0,0,12,0,1,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/D1910F7B171C3D14E12C
+Prov. Jawa Barat,Kab. Tasikmalaya,Kec. Karangnunggal,SDN 2 KARANGNUNGGAL,20210169,SD,Negeri,-,0,0,0,0,0,7,0,1,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/95F7620BF5E76BE80F36
+Prov. Jawa Barat,Kab. Tasikmalaya,Kec. Karangnunggal,SDN CIMANGGU,20210635,SD,Negeri,-,0,0,0,0,0,6,0,0,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/99CF7C95E7536B2D273A
+Prov. Jawa Barat,Kab. Tasikmalaya,Kec. Karangnunggal,SDN CIPARI,20262446,SD,Negeri,-,0,0,0,0,0,15,3,1,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/11C0ABAB0E9EDDDE479C
+Prov. Jawa Barat,Kab. Tasikmalaya,Kec. Karangnunggal,SDN PARAKANMUNCANG,20210309,SD,Negeri,-,0,0,0,0,0,6,0,0,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/7A234F3ECE9371F9210D
+Prov. Jawa Barat,Kab. Tasikmalaya,Kec. Karangnunggal,SDN RAHARJA,20210191,SD,Negeri,-,0,0,0,0,0,6,0,0,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/48821AACB4288367062F
+Prov. Jawa Barat,Kab. Tasikmalaya,Kec. Karangnunggal,SDN RAHAYU,20210176,SD,Negeri,-,0,0,0,0,0,7,0,0,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/B32D455E8F1E71794F71
+Prov. Jawa Barat,Kab. Tasikmalaya,Kec. Karangnunggal,SDN SUKAHURIP,20210905,SD,Negeri,-,0,0,0,0,0,6,0,0,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/2C2A236C92DD849022C2
+Prov. Jawa Barat,Kab. Tasikmalaya,Kec. Karangnunggal,SMPN 1 KARANGNUNGGAL,20210855,SMP,Negeri,-,0,0,0,0,0,24,3,1,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/38FD719962CC754B55FD
+Prov. Jawa Barat,Kab. Tasikmalaya,Kec. Karangnunggal,SMPN 2 KARANGNUNGGAL,20210783,SMP,Negeri,-,0,0,0,0,0,11,2,1,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/03A2845D876E230E7615
+Prov. Jawa Barat,Kab. Tasikmalaya,Kec. Karangnunggal,SMPN 3 KARANGNUNGGAL,20210810,SMP,Negeri,-,0,0,0,0,0,12,2,1,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/49EF7AB9AD570B41D4C7
+Prov. Jawa Barat,Kab. Tasikmalaya,Kec. Karangnunggal,SMPN 4 KARANGNUNGGAL,20229507,SMP,Negeri,-,0,0,0,0,0,13,1,1,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/406D91A8D1E6862E6A10
+Prov. Jawa Barat,Kab. Tasikmalaya,Kec. Karangnunggal,SMPN SATU ATAP 1 KARANGNUNGGAL,20251812,SMP,Negeri,-,0,0,0,0,0,6,1,1,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/77361C8425DE37CF972E
+Prov. Jawa Barat,Kab. Tasikmalaya,Kec. Karangnunggal,SMPN SATU ATAP 2 KARANGNUNGGAL,20268071,SMP,Negeri,-,0,0,0,0,0,3,2,0,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/332E608462F1B1BA582F
+Prov. Jawa Barat,Kab. Tasikmalaya,Kec. Karangnunggal,SMP ISLAM TERPADU DAARUSSALAAM,20279874,SMP,Swasta,-,0,0,0,0,0,2,0,0,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/92EC65C3268A48C7223E
+Prov. Jawa Barat,Kab. Tasikmalaya,Kec. Karangnunggal,SMP ISLAM TRIJAYA,20210730,SMP,Swasta,-,0,0,0,0,0,12,2,1,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/15BA63823BA7C4EBAADF
+Prov. Jawa Barat,Kab. Tasikmalaya,Kec. Karangnunggal,SMP IT MADINATUL ALBAAB,69973593,SMP,Swasta,-,0,0,0,0,0,2,0,0,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/89B9E07DE6AE695F9DC6
+Prov. Jawa Barat,Kab. Tasikmalaya,Kec. Karangnunggal,SMP PLUS AL AFSAR,20229492,SMP,Swasta,-,0,0,0,0,0,6,3,1,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/012019B73D8CD1F72225
+Prov. Jawa Barat,Kab. Tasikmalaya,Kec. Karangnunggal,SMP PLUS AL-HIKMAH,20271220,SMP,Swasta,-,0,0,0,0,0,5,0,1,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/F2B7A0423A99E80936E4
+Prov. Jawa Barat,Kab. Tasikmalaya,Kec. Karangnunggal,SMAN 1 KARANGNUNGGAL,20210742,SMA,Negeri,-,0,0,0,0,0,38,5,1,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/6210E96A17D56E40DFDE
+Prov. Jawa Barat,Kab. Tasikmalaya,Kec. Karangnunggal,SMAS PLUS AL-FALAH,20268843,SMA,Swasta,21 Aug 2019 20:00:52,4,75,3,9,1,4,0,1,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/5E65E3D914F9B685E4F0
+Prov. Jawa Barat,Kab. Tasikmalaya,Kec. Karangnunggal,SMK 2 LPPM RI KARANGNUNGGAL,69788582,SMK,Swasta,-,0,0,0,0,0,8,1,0,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/F52A2CF76C19A325E001
+Prov. Jawa Barat,Kab. Tasikmalaya,Kec. Karangnunggal,SMK AT-THIN KARANGNUNGGAL,69954332,SMK,Swasta,-,0,0,0,0,0,3,0,0,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/8DC3757D1DBE1BEF6CA5
+Prov. Jawa Barat,Kab. Tasikmalaya,Kec. Karangnunggal,SMK IT BUSTANUL ULUM,69947333,SMK,Swasta,22 Aug 2019 10:12:49,7,46,3,4,0,4,1,1,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/F2C5502904BD18513712
+Prov. Jawa Barat,Kab. Tasikmalaya,Kec. Karangnunggal,SMKS AL AFSAR,20268015,SMK,Swasta,-,0,0,0,0,0,8,1,0,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/68B3EF23449B9C4C9718
+Prov. Jawa Barat,Kab. Tasikmalaya,Kec. Karangnunggal,SMKS ARROJA TASIKMALAYA,20210715,SMK,Swasta,-,0,0,0,0,0,11,2,1,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/8BCA82D55002D68F38CF
+Prov. Jawa Barat,Kab. Tasikmalaya,Kec. Karangnunggal,SMKS GUNA BAKTI,69758460,SMK,Swasta,-,0,0,0,0,0,6,0,0,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/2A06688FFE74D8BE27D1
+Prov. Jawa Barat,Kab. Tasikmalaya,Kec. Karangnunggal,SMKS SWADAYA KARANGNUNGGAL,20210706,SMK,Swasta,22 Aug 2019 10:12:33,0,0,0,0,0,38,7,1,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/23AD46532DF0244C69A6

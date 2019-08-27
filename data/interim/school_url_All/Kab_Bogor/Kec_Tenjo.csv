@@ -1,0 +1,58 @@
+provinsi,kab_kota,kecamatan,nama_sekolah,npsn,bp,status,last_sync,jml_sync,pd,rombel,guru,pegawai,ruang_kelas,ruang_lab,ruang_perpus,url_sekolah
+Prov. Jawa Barat,Kab. Bogor,Kec. Tenjo,SD N BABAKAN 02,20200496,SD,Negeri,-,0,0,0,0,0,9,0,1,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/627CB18E46A75FCEEA9B
+Prov. Jawa Barat,Kab. Bogor,Kec. Tenjo,SD N BOJONG 04,20230429,SD,Negeri,-,0,0,0,0,0,13,0,2,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/5DEA3B4070505BD5EC7C
+Prov. Jawa Barat,Kab. Bogor,Kec. Tenjo,SD N CILAKU 01,20201109,SD,Negeri,-,0,0,0,0,0,10,0,0,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/53F920F7BF5A8B743023
+Prov. Jawa Barat,Kab. Bogor,Kec. Tenjo,SD N TAPOS 03,20200923,SD,Negeri,-,0,0,0,0,0,9,0,1,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/EC6E5018E471F6E4F083
+Prov. Jawa Barat,Kab. Bogor,Kec. Tenjo,SD N TAPOS 04,20200925,SD,Negeri,-,0,0,0,0,0,13,0,0,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/5BB69369E8CDB235B3FF
+Prov. Jawa Barat,Kab. Bogor,Kec. Tenjo,SD N TENJO 01,20200954,SD,Negeri,-,0,0,0,0,0,9,0,0,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/68CA8181FCECF43D3CC6
+Prov. Jawa Barat,Kab. Bogor,Kec. Tenjo,SD N TENJO 02,20200944,SD,Negeri,-,0,0,0,0,0,12,0,0,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/72D557B5518031B70C41
+Prov. Jawa Barat,Kab. Bogor,Kec. Tenjo,SD N TENJO 03,20200943,SD,Negeri,-,0,0,0,0,0,7,0,1,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/9A02C8AE7CD111589DC0
+Prov. Jawa Barat,Kab. Bogor,Kec. Tenjo,SD NEGERI BABAKAN 04,20230415,SD,Negeri,-,0,0,0,0,0,7,0,0,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/7FE6001992ED1710B0BE
+Prov. Jawa Barat,Kab. Bogor,Kec. Tenjo,SD NEGERI BATOK 02,20201315,SD,Negeri,-,0,0,0,0,0,8,0,1,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/9559C94D2871A7FAA719
+Prov. Jawa Barat,Kab. Bogor,Kec. Tenjo,SD NEGERI BATOK 03,20201305,SD,Negeri,-,0,0,0,0,0,6,0,1,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/974EF4230229397EEB13
+Prov. Jawa Barat,Kab. Bogor,Kec. Tenjo,SD NEGERI BATOK 04,20201306,SD,Negeri,-,0,0,0,0,0,6,0,0,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/B40D832AFB6EF280AFB8
+Prov. Jawa Barat,Kab. Bogor,Kec. Tenjo,SD NEGERI BOJONG 01,20201457,SD,Negeri,-,0,0,0,0,0,6,0,0,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/2ABE752B17FAB92FA5E9
+Prov. Jawa Barat,Kab. Bogor,Kec. Tenjo,SD NEGERI BOJONG 02,20201458,SD,Negeri,-,0,0,0,0,0,10,0,1,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/FDCD2349DA785EEBED2F
+Prov. Jawa Barat,Kab. Bogor,Kec. Tenjo,SD NEGERI BOJONG 03,20230427,SD,Negeri,-,0,0,0,0,0,10,0,1,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/83082A9A6721FA9993FB
+Prov. Jawa Barat,Kab. Bogor,Kec. Tenjo,SD NEGERI CILAKU 02,20201120,SD,Negeri,-,0,0,0,0,0,6,0,1,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/89345B2F9D8AF19A536F
+Prov. Jawa Barat,Kab. Bogor,Kec. Tenjo,SD NEGERI CILAKU 03,20201121,SD,Negeri,-,0,0,0,0,0,7,0,0,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/0A00419C46CEDFF7CF69
+Prov. Jawa Barat,Kab. Bogor,Kec. Tenjo,SD NEGERI CILAKU 04,20201122,SD,Negeri,-,0,0,0,0,0,6,0,1,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/41BFDEE39616286FA356
+Prov. Jawa Barat,Kab. Bogor,Kec. Tenjo,SD NEGERI CILAKU 05,20201102,SD,Negeri,-,0,0,0,0,0,7,0,0,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/4D3BEA31F2CCEC71EDD7
+Prov. Jawa Barat,Kab. Bogor,Kec. Tenjo,SD NEGERI CILAKU 06,20201101,SD,Negeri,-,0,0,0,0,0,6,0,0,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/6879E10D9112C693ED4C
+Prov. Jawa Barat,Kab. Bogor,Kec. Tenjo,SD NEGERI CIOMAS 01,20201790,SD,Negeri,-,0,0,0,0,0,7,0,0,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/E5C64914756BD5BC9DC2
+Prov. Jawa Barat,Kab. Bogor,Kec. Tenjo,SD NEGERI CIOMAS 02,20201791,SD,Negeri,-,0,0,0,0,0,6,0,0,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/3BDB0FED021BE8B07D47
+Prov. Jawa Barat,Kab. Bogor,Kec. Tenjo,SD NEGERI CIOMAS 03,20230481,SD,Negeri,-,0,0,0,0,0,6,0,0,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/0F5A7F339C26B8A7707A
+Prov. Jawa Barat,Kab. Bogor,Kec. Tenjo,SD NEGERI CIOMAS 04,20201753,SD,Negeri,-,0,0,0,0,0,6,0,0,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/10D801F492E1088A7EDA
+Prov. Jawa Barat,Kab. Bogor,Kec. Tenjo,SD NEGERI SINGABRAJA 01,20200303,SD,Negeri,-,0,0,0,0,0,10,0,1,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/4406ACBC6861CA7F33D2
+Prov. Jawa Barat,Kab. Bogor,Kec. Tenjo,SD NEGERI SINGABRAJA 02,20200304,SD,Negeri,-,0,0,0,0,0,10,0,1,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/CCFBF1D7A38A4BBF1A3B
+Prov. Jawa Barat,Kab. Bogor,Kec. Tenjo,SD NEGERI TAPOS 01,20230592,SD,Negeri,-,0,0,0,0,0,11,0,2,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/D716650824BCA14BF66A
+Prov. Jawa Barat,Kab. Bogor,Kec. Tenjo,SD NEGERI TAPOS 02,20200921,SD,Negeri,-,0,0,0,0,0,8,0,1,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/8EB2599039B83400E645
+Prov. Jawa Barat,Kab. Bogor,Kec. Tenjo,SD NEGERI TEGALPONDOH,20200949,SD,Negeri,-,0,0,0,0,0,6,0,0,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/CD915F5A32EA8AD41BB8
+Prov. Jawa Barat,Kab. Bogor,Kec. Tenjo,SD NEGERI TENJO 04,20200942,SD,Negeri,-,0,0,0,0,0,6,0,1,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/478AB910069FCB9169B1
+Prov. Jawa Barat,Kab. Bogor,Kec. Tenjo,SD NEGERI TENJO 05,20200932,SD,Negeri,-,0,0,0,0,0,6,0,0,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/8470BF3AF67B4D21F39B
+Prov. Jawa Barat,Kab. Bogor,Kec. Tenjo,SDN BABAKAN 01,20230413,SD,Negeri,-,0,0,0,0,0,12,0,1,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/DBAC610895048EFE9DE9
+Prov. Jawa Barat,Kab. Bogor,Kec. Tenjo,SDN BABAKAN 03,20230414,SD,Negeri,-,0,0,0,0,0,6,0,1,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/7E0E24E9658A48D9457F
+Prov. Jawa Barat,Kab. Bogor,Kec. Tenjo,SDN BATOK 01,20201316,SD,Negeri,-,0,0,0,0,0,9,0,1,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/A19A6FF21EDFBE298A2D
+Prov. Jawa Barat,Kab. Bogor,Kec. Tenjo,SDI TUNAS HARAPAN ISLAMI,69857704,SD,Swasta,-,0,0,0,0,0,6,0,1,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/E68A39D47DDF7BE6F2C4
+Prov. Jawa Barat,Kab. Bogor,Kec. Tenjo,SDS MIFTAHUL HASANAH,69880137,SD,Swasta,-,0,0,0,0,0,6,1,1,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/48CB5FF2ABC0F1221E8A
+Prov. Jawa Barat,Kab. Bogor,Kec. Tenjo,SMP NEGERI 1 TENJO,20200662,SMP,Negeri,-,0,0,0,0,0,30,3,1,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/C883EF793E53CC8B4690
+Prov. Jawa Barat,Kab. Bogor,Kec. Tenjo,SMP NEGERI 2 TENJO,20200648,SMP,Negeri,-,0,0,0,0,0,19,0,1,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/AD005C736E8DA9CDB18C
+Prov. Jawa Barat,Kab. Bogor,Kec. Tenjo,SMP NEGERI 3 TENJO,20268211,SMP,Negeri,-,0,0,0,0,0,6,0,1,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/788A5D58CE1FCDED2E67
+Prov. Jawa Barat,Kab. Bogor,Kec. Tenjo,SMP NEGERI SATU ATAP 01 TENJO,20257240,SMP,Negeri,22 Aug 2019 07:17:26,0,0,0,0,0,3,1,1,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/E91FCEC9AFF77B423DD5
+Prov. Jawa Barat,Kab. Bogor,Kec. Tenjo,SMP AL FARISI TAPOS,69964086,SMP,Swasta,-,0,0,0,0,0,6,1,0,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/7A6E523BD7965E69CA0D
+Prov. Jawa Barat,Kab. Bogor,Kec. Tenjo,SMP AVICENNA,20230949,SMP,Swasta,-,0,0,0,0,0,3,0,0,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/6E96BFEFE3B6A8A20A85
+Prov. Jawa Barat,Kab. Bogor,Kec. Tenjo,SMP BANI HARUN,20230950,SMP,Swasta,-,0,0,0,0,0,6,1,0,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/4577F4802DA2350D1B3B
+Prov. Jawa Barat,Kab. Bogor,Kec. Tenjo,SMP IT BABUSSALAM,69909213,SMP,Swasta,-,0,0,0,0,0,3,0,1,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/0F887A7B78EE81A09522
+Prov. Jawa Barat,Kab. Bogor,Kec. Tenjo,SMP PGRI 02 TENJO,20231128,SMP,Swasta,-,0,0,0,0,0,18,2,1,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/737A9CE035ADED8CB93E
+Prov. Jawa Barat,Kab. Bogor,Kec. Tenjo,SMP TUNAS HARAPAN ISLAMI,10648866,SMP,Swasta,-,0,0,0,0,0,4,0,0,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/D5BCCF5004D6FE92A34F
+Prov. Jawa Barat,Kab. Bogor,Kec. Tenjo,SMPS ISLAM AL-MUSTHOFA,20253397,SMP,Swasta,-,0,0,0,0,0,3,1,1,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/B049F82B2FBE4308BABD
+Prov. Jawa Barat,Kab. Bogor,Kec. Tenjo,SMPS MODEL ISLAMI,20253550,SMP,Swasta,-,0,0,0,0,0,6,1,1,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/A3B77E767185D03B31EA
+Prov. Jawa Barat,Kab. Bogor,Kec. Tenjo,SMPS PGRI 01 TENJO,20200698,SMP,Swasta,-,0,0,0,0,0,7,0,1,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/CB4E7DA17A3D5581C196
+Prov. Jawa Barat,Kab. Bogor,Kec. Tenjo,SMAN 1 TENJO,20231338,SMA,Negeri,-,0,0,0,0,0,17,4,1,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/7C869236570183F9553A
+Prov. Jawa Barat,Kab. Bogor,Kec. Tenjo,SMA ISLAM DAARUL ARHAM,20231290,SMA,Swasta,-,0,0,0,0,0,3,1,1,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/E22D261F67E415AFDB99
+Prov. Jawa Barat,Kab. Bogor,Kec. Tenjo,SMAS AL MUSTHOPA,20231272,SMA,Swasta,-,0,0,0,0,0,5,0,0,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/98F85521943C44CEDB7A
+Prov. Jawa Barat,Kab. Bogor,Kec. Tenjo,SMAS HIDAYATUL IKHWAN,20200689,SMA,Swasta,-,0,0,0,0,0,8,0,0,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/3898FCB0A001E2B8B2D8
+Prov. Jawa Barat,Kab. Bogor,Kec. Tenjo,SMKS ACASIA FORNIS,69757150,SMK,Swasta,-,0,0,0,0,0,3,0,0,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/3898B2BD8B4C4D235BE7
+Prov. Jawa Barat,Kab. Bogor,Kec. Tenjo,SMKS AVICENA,20231381,SMK,Swasta,-,0,0,0,0,0,11,1,1,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/5FB15358EFF2DAD752E2
+Prov. Jawa Barat,Kab. Bogor,Kec. Tenjo,SMKS KENCANA,69734364,SMK,Swasta,-,0,0,0,0,0,15,0,0,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/7CB2E08D15846FE14290
+Prov. Jawa Barat,Kab. Bogor,Kec. Tenjo,SMKS MODIS,69757149,SMK,Swasta,-,0,0,0,0,0,7,1,1,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/79B0374924AC5E318333

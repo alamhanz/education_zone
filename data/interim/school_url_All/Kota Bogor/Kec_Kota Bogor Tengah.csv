@@ -1,0 +1,93 @@
+provinsi,kab_kota,kecamatan,nama_sekolah,npsn,bp,status,last_sync,jml_sync,pd,rombel,guru,pegawai,ruang_kelas,ruang_lab,ruang_perpus,url_sekolah
+Prov. Jawa Barat,Kota Bogor,Kec. Kota Bogor Tengah,SD N BARANANGSIANG,20219935,SD,Negeri,-,0,0,0,0,0,12,0,1,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/9A50EE66BF23FE930DA9
+Prov. Jawa Barat,Kota Bogor,Kec. Kota Bogor Tengah,SD N DEWI SARTIKA 1,20220031,SD,Negeri,-,0,0,0,0,0,10,1,1,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/162AC8E1C9D4B03B5593
+Prov. Jawa Barat,Kota Bogor,Kec. Kota Bogor Tengah,SD N DEWI SARTIKA 2,20220042,SD,Negeri,-,0,0,0,0,0,9,1,1,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/0241E1F34CFB19CC3D12
+Prov. Jawa Barat,Kota Bogor,Kec. Kota Bogor Tengah,SD N DEWI SARTIKA 3,20220043,SD,Negeri,-,0,0,0,0,0,9,0,0,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/D2883F816C8CE8E14173
+Prov. Jawa Barat,Kota Bogor,Kec. Kota Bogor Tengah,SD N GUNUNG GEDE,20220037,SD,Negeri,-,0,0,0,0,0,14,1,1,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/E63E8C728A5085E5FDA5
+Prov. Jawa Barat,Kota Bogor,Kec. Kota Bogor Tengah,SD N KAMPUNG RAMBUTAN,20220493,SD,Negeri,-,0,0,0,0,0,6,1,1,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/52C0BA833B88663888B5
+Prov. Jawa Barat,Kota Bogor,Kec. Kota Bogor Tengah,SD N KEBON KOPI ,20220498,SD,Negeri,-,0,0,0,0,0,12,0,0,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/02C30CDF97A76B1C8A35
+Prov. Jawa Barat,Kota Bogor,Kec. Kota Bogor Tengah,SD N MALABAR ,20220437,SD,Negeri,-,0,0,0,0,0,13,0,1,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/6BBA30997AD785642AA8
+Prov. Jawa Barat,Kota Bogor,Kec. Kota Bogor Tengah,SD N PANARAGAN 3 BOGOR,20220576,SD,Negeri,-,0,0,0,0,0,5,0,1,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/8487CDFBCB0E559EB464
+Prov. Jawa Barat,Kota Bogor,Kec. Kota Bogor Tengah,SD N PAPANDAYAN ,20220580,SD,Negeri,-,0,0,0,0,0,30,1,1,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/6CE30F17B8BA0C5FF69B
+Prov. Jawa Barat,Kota Bogor,Kec. Kota Bogor Tengah,SD N PENGADILAN 1 BOGOR,20220572,SD,Negeri,-,0,0,0,0,0,13,0,1,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/8E35EE0F7FFADD9A1318
+Prov. Jawa Barat,Kota Bogor,Kec. Kota Bogor Tengah,SD N PENGADILAN 2,20220563,SD,Negeri,-,0,0,0,0,0,10,1,1,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/B624834B72231793F2B8
+Prov. Jawa Barat,Kota Bogor,Kec. Kota Bogor Tengah,SD N PENGADILAN 3,20220564,SD,Negeri,-,0,0,0,0,0,10,1,1,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/AFC3B71E429CCCA8E705
+Prov. Jawa Barat,Kota Bogor,Kec. Kota Bogor Tengah,SD N PERWIRA,20220568,SD,Negeri,-,0,0,0,0,0,6,0,1,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/88C905E229D6E185FE4C
+Prov. Jawa Barat,Kota Bogor,Kec. Kota Bogor Tengah,SD N SEMPUR KIDUL,20220589,SD,Negeri,-,0,0,0,0,0,5,0,1,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/DC8E83087A4B1DFB8A85
+Prov. Jawa Barat,Kota Bogor,Kec. Kota Bogor Tengah,SD N TEGALLEGA 1,20220558,SD,Negeri,-,0,0,0,0,0,12,0,1,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/C2907553008A6C13E116
+Prov. Jawa Barat,Kota Bogor,Kec. Kota Bogor Tengah,SD N TEGALLEGA 2,20220559,SD,Negeri,-,0,0,0,0,0,6,0,1,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/87C2EC8AE118C84D52E3
+Prov. Jawa Barat,Kota Bogor,Kec. Kota Bogor Tengah,SD NEGERI BABAKAN,20219910,SD,Negeri,-,0,0,0,0,0,10,0,1,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/96C635016E2B303C9842
+Prov. Jawa Barat,Kota Bogor,Kec. Kota Bogor Tengah,SD NEGERI CIMANGGU KECIL,20220013,SD,Negeri,-,0,0,0,0,0,25,0,2,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/FBF96B6D10C984A76F6E
+Prov. Jawa Barat,Kota Bogor,Kec. Kota Bogor Tengah,SD NEGERI GANG AUT,20220040,SD,Negeri,-,0,0,0,0,0,8,0,0,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/8E7F792C4F071C7B191F
+Prov. Jawa Barat,Kota Bogor,Kec. Kota Bogor Tengah,SD NEGERI PABRIK ES I,20220468,SD,Negeri,-,0,0,0,0,0,10,1,1,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/C355F1AF12838858E05E
+Prov. Jawa Barat,Kota Bogor,Kec. Kota Bogor Tengah,SD NEGERI PANARAGAN 1,20220574,SD,Negeri,-,0,0,0,0,0,9,1,1,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/3819C2A7A5948A9352D9
+Prov. Jawa Barat,Kota Bogor,Kec. Kota Bogor Tengah,SD NEGERI PANARAGAN 2,20220575,SD,Negeri,-,0,0,0,0,0,6,1,1,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/0771A2696B3776497B5E
+Prov. Jawa Barat,Kota Bogor,Kec. Kota Bogor Tengah,SD NEGERI PANARAGAN KIDUL BOGOR,20220577,SD,Negeri,-,0,0,0,0,0,16,2,1,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/556CED963DBC0C611A25
+Prov. Jawa Barat,Kota Bogor,Kec. Kota Bogor Tengah,SD NEGERI PENGADILAN 5,20220566,SD,Negeri,-,0,0,0,0,0,10,1,1,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/10F12DF7A18E3B3EF8F9
+Prov. Jawa Barat,Kota Bogor,Kec. Kota Bogor Tengah,SD NEGERI POLISI 1,20220569,SD,Negeri,-,0,0,0,0,0,21,2,1,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/56673B8FE8753DB1A1F5
+Prov. Jawa Barat,Kota Bogor,Kec. Kota Bogor Tengah,SD NEGERI POLISI 4,20220582,SD,Negeri,-,0,0,0,0,0,24,3,1,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/FCEB4E5C78F4D9EDA5CF
+Prov. Jawa Barat,Kota Bogor,Kec. Kota Bogor Tengah,SD NEGERI POLISI 5,20220583,SD,Negeri,-,0,0,0,0,0,11,1,1,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/F1A416B13053E6AE6ACA
+Prov. Jawa Barat,Kota Bogor,Kec. Kota Bogor Tengah,SD NEGERI SEMPUR KALER,20220588,SD,Negeri,-,0,0,0,0,0,6,0,1,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/1BF65D71605CA2C2D9C8
+Prov. Jawa Barat,Kota Bogor,Kec. Kota Bogor Tengah,SD NEGERI SINDANGSARI (BOTENG),20220532,SD,Negeri,-,0,0,0,0,0,16,0,1,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/3A250E99CCA0B3E2BCB3
+Prov. Jawa Barat,Kota Bogor,Kec. Kota Bogor Tengah,SDN EMPANG 1,20220046,SD,Negeri,-,0,0,0,0,0,20,0,1,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/6DAEE8FB2D58578525D8
+Prov. Jawa Barat,Kota Bogor,Kec. Kota Bogor Tengah,SDN EMPANG 2,20220047,SD,Negeri,-,0,0,0,0,0,17,0,1,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/CC2451DD523CDA3BC407
+Prov. Jawa Barat,Kota Bogor,Kec. Kota Bogor Tengah,SDN POLISI 2,20220570,SD,Negeri,-,0,0,0,0,0,11,0,2,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/475A5C354E4E0A8B9B39
+Prov. Jawa Barat,Kota Bogor,Kec. Kota Bogor Tengah,SDN RODA,20220600,SD,Negeri,-,0,0,0,0,0,6,0,1,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/3EF9920824370E374212
+Prov. Jawa Barat,Kota Bogor,Kec. Kota Bogor Tengah,SD AL GHAZALY,20219979,SD,Swasta,-,0,0,0,0,0,12,1,0,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/AAFFFADFCAA8DBCBFC23
+Prov. Jawa Barat,Kota Bogor,Kec. Kota Bogor Tengah,SD BPK PENABUR,20219972,SD,Swasta,-,0,0,0,0,0,12,2,1,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/FF342411828914562498
+Prov. Jawa Barat,Kota Bogor,Kec. Kota Bogor Tengah,SD BUDI MULIA,20219973,SD,Swasta,-,0,0,0,0,0,18,1,1,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/8932CB3A9DC328333CDA
+Prov. Jawa Barat,Kota Bogor,Kec. Kota Bogor Tengah,SD KRISTEN SATU BAKTI,20219949,SD,Swasta,-,0,0,0,0,0,6,0,1,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/063716311C7DEC9EECBC
+Prov. Jawa Barat,Kota Bogor,Kec. Kota Bogor Tengah,SD REGINA PACIS,20219926,SD,Swasta,-,0,0,0,0,0,32,2,1,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/840D320236DAB56EF0B5
+Prov. Jawa Barat,Kota Bogor,Kec. Kota Bogor Tengah,SD TAMANSISWA,20219916,SD,Swasta,-,0,0,0,0,0,7,1,0,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/6CB13249C305650DFFA6
+Prov. Jawa Barat,Kota Bogor,Kec. Kota Bogor Tengah,SMP NEGERI 1 BOGOR,20220385,SMP,Negeri,-,0,0,0,0,0,25,5,1,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/AD05B6EDB568F23E7752
+Prov. Jawa Barat,Kota Bogor,Kec. Kota Bogor Tengah,SMP NEGERI 11 BOGOR,20220387,SMP,Negeri,-,0,0,0,0,0,28,2,1,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/09CAADCC61ABD7FA7B41
+Prov. Jawa Barat,Kota Bogor,Kec. Kota Bogor Tengah,SMP NEGERI 2,20220376,SMP,Negeri,-,0,0,0,0,0,28,3,1,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/23211FF13353095AB3DB
+Prov. Jawa Barat,Kota Bogor,Kec. Kota Bogor Tengah,SMP NEGERI 20,20258321,SMP,Negeri,-,0,0,0,0,0,19,2,1,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/48C6365CECE2A516FA5B
+Prov. Jawa Barat,Kota Bogor,Kec. Kota Bogor Tengah,SMP NEGERI 3 BOGOR,20220377,SMP,Negeri,-,0,0,0,0,0,27,5,1,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/CA188198AE91ECE0DCDF
+Prov. Jawa Barat,Kota Bogor,Kec. Kota Bogor Tengah,SMP NEGERI 4 BOGOR,20220378,SMP,Negeri,-,0,0,0,0,0,27,5,1,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/D1EBDE87F8036CA0884F
+Prov. Jawa Barat,Kota Bogor,Kec. Kota Bogor Tengah,SMP NEGERI 7 BOGOR,20220381,SMP,Negeri,-,0,0,0,0,0,27,2,1,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/E3C371DD68F9A578D378
+Prov. Jawa Barat,Kota Bogor,Kec. Kota Bogor Tengah,SMP AL GHAZALY BOGOR,20220434,SMP,Swasta,-,0,0,0,0,0,19,3,1,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/0A8EE738772EC7F6C243
+Prov. Jawa Barat,Kota Bogor,Kec. Kota Bogor Tengah,SMP AT-THOYIBAH,20220407,SMP,Swasta,-,0,0,0,0,0,3,2,1,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/9CAA2A5FF6D6FF6E7DC0
+Prov. Jawa Barat,Kota Bogor,Kec. Kota Bogor Tengah,SMP BINA SEJAHTERA,20220405,SMP,Swasta,-,0,0,0,0,0,23,2,1,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/91329E8DE7B4FCBDCCDF
+Prov. Jawa Barat,Kota Bogor,Kec. Kota Bogor Tengah,SMP BPK PENABUR BOGOR,20220404,SMP,Swasta,-,0,0,0,0,0,9,2,1,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/7EECC30918D69F2B5FDC
+Prov. Jawa Barat,Kota Bogor,Kec. Kota Bogor Tengah,SMP BUDI MULIA BOGOR,20220396,SMP,Swasta,-,0,0,0,0,0,14,2,1,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/1A37951A64D334B2A340
+Prov. Jawa Barat,Kota Bogor,Kec. Kota Bogor Tengah,SMP ISLAM YTM 1,20220403,SMP,Swasta,-,0,0,0,0,0,12,2,1,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/C7310D4992F4703DDD67
+Prov. Jawa Barat,Kota Bogor,Kec. Kota Bogor Tengah,SMP KRISTEN YPK SATU BAKTI,20220427,SMP,Swasta,-,0,0,0,0,0,8,1,1,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/446F40EA27DA134253AC
+Prov. Jawa Barat,Kota Bogor,Kec. Kota Bogor Tengah,SMP MUTIARA KARTINI,20268774,SMP,Swasta,-,0,0,0,0,0,3,0,1,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/0637BFA8B32095D839F2
+Prov. Jawa Barat,Kota Bogor,Kec. Kota Bogor Tengah,SMP PASUNDAN I BOGOR,20238496,SMP,Swasta,-,0,0,0,0,0,4,0,0,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/5D903453DF049AD30377
+Prov. Jawa Barat,Kota Bogor,Kec. Kota Bogor Tengah,SMP PGRI 1 BOGOR,20238500,SMP,Swasta,-,0,0,0,0,0,13,1,1,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/FD054B762E13FF076912
+Prov. Jawa Barat,Kota Bogor,Kec. Kota Bogor Tengah,SMP PGRI 5,20220394,SMP,Swasta,22 Aug 2019 17:58:48,9,465,15,23,11,15,2,1,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/A0474D5E19ECC7EDCBB9
+Prov. Jawa Barat,Kota Bogor,Kec. Kota Bogor Tengah,SMP PGRI 7 KOTA BOGOR,20238504,SMP,Swasta,-,0,0,0,0,0,18,0,1,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/7888D2A733FEC057893F
+Prov. Jawa Barat,Kota Bogor,Kec. Kota Bogor Tengah,SMP REGINA PACIS,20220367,SMP,Swasta,22 Aug 2019 15:07:42,1,478,15,27,4,21,4,2,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/A6EDBD7D3CC6471EFF9D
+Prov. Jawa Barat,Kota Bogor,Kec. Kota Bogor Tengah,SMP TAMANSISWA (TAMAN DEWASA),20220372,SMP,Swasta,-,0,0,0,0,0,15,1,1,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/D99B94E4F9766242EDF6
+Prov. Jawa Barat,Kota Bogor,Kec. Kota Bogor Tengah,SMP TARUNA ANDIGHA,20220364,SMP,Swasta,-,0,0,0,0,0,11,3,1,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/39F8C1CFBD9CF6EDCF62
+Prov. Jawa Barat,Kota Bogor,Kec. Kota Bogor Tengah,SMP YP BARANANGSIANG,20220361,SMP,Swasta,-,0,0,0,0,0,7,0,1,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/E3FF92759C0C8A8A7588
+Prov. Jawa Barat,Kota Bogor,Kec. Kota Bogor Tengah,SMP YZA 2,20220374,SMP,Swasta,-,0,0,0,0,0,8,2,1,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/9ECB3CD756872AC7674C
+Prov. Jawa Barat,Kota Bogor,Kec. Kota Bogor Tengah,SMAN 1 BOGOR,20220342,SMA,Negeri,-,0,0,0,0,0,29,5,1,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/C77D50611F0FDCCFC513
+Prov. Jawa Barat,Kota Bogor,Kec. Kota Bogor Tengah,SMAN 9 BOGOR,20220338,SMA,Negeri,-,0,0,0,0,0,27,5,2,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/8E4815F98114E0BF76DD
+Prov. Jawa Barat,Kota Bogor,Kec. Kota Bogor Tengah,SMAS AL GHAZALY,20220545,SMA,Swasta,-,0,0,0,0,0,6,6,2,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/8F08486B51F30336492D
+Prov. Jawa Barat,Kota Bogor,Kec. Kota Bogor Tengah,SMAS BINA SEJAHTERA,20220323,SMA,Swasta,-,0,0,0,0,0,6,3,1,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/8884A23773FBFCBF748B
+Prov. Jawa Barat,Kota Bogor,Kec. Kota Bogor Tengah,SMAS BPK PENABUR,20220324,SMA,Swasta,-,0,0,0,0,0,4,5,1,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/B1A3E9680C457E5CB30F
+Prov. Jawa Barat,Kota Bogor,Kec. Kota Bogor Tengah,SMAS BUDI MULIA,20220325,SMA,Swasta,-,0,0,0,0,0,24,4,1,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/13C725FABEFE98573221
+Prov. Jawa Barat,Kota Bogor,Kec. Kota Bogor Tengah,SMAS KRISTEN YPK SATU BAKTI,20220320,SMA,Swasta,-,0,0,0,0,0,5,1,1,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/9FC1938CD4147B04E683
+Prov. Jawa Barat,Kota Bogor,Kec. Kota Bogor Tengah,SMAS REGINA PACIS,20220343,SMA,Swasta,-,0,0,0,0,0,27,5,1,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/4B857FEC28896D83DA0F
+Prov. Jawa Barat,Kota Bogor,Kec. Kota Bogor Tengah,SMAS TAMAN SISWA BOGOR TENGAH,20220347,SMA,Swasta,22 Aug 2019 14:46:19,1,41,3,4,2,9,6,2,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/E5B9EB83363B9C809D1D
+Prov. Jawa Barat,Kota Bogor,Kec. Kota Bogor Tengah,SMAS TARUNA ANDIGHA,20220348,SMA,Swasta,-,0,0,0,0,0,20,8,1,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/3D5FE67FB0695DB97353
+Prov. Jawa Barat,Kota Bogor,Kec. Kota Bogor Tengah,SMAS YZA 2 BOGOR,20220351,SMA,Swasta,-,0,0,0,0,0,3,2,1,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/961E4D5AD34988C10228
+Prov. Jawa Barat,Kota Bogor,Kec. Kota Bogor Tengah,SMKN 3 BOGOR,20220275,SMK,Negeri,-,0,0,0,0,0,35,5,2,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/059D1DC90C360D4DEDB9
+Prov. Jawa Barat,Kota Bogor,Kec. Kota Bogor Tengah,SMK GLOBAL INDONESIA,69896725,SMK,Swasta,-,0,0,0,0,0,8,1,2,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/6E73D7FE31B4B6749C23
+Prov. Jawa Barat,Kota Bogor,Kec. Kota Bogor Tengah,SMK TAMANSISWA BOGOR,69947461,SMK,Swasta,-,0,0,0,0,0,3,1,0,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/1BB875AC0588EF3E4A28
+Prov. Jawa Barat,Kota Bogor,Kec. Kota Bogor Tengah,SMKS AL GHAZALY,20279947,SMK,Swasta,-,0,0,0,0,0,9,3,1,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/F7A2F35FB05C5E030EDD
+Prov. Jawa Barat,Kota Bogor,Kec. Kota Bogor Tengah,SMKS BINA INSAN CITA,20238527,SMK,Swasta,-,0,0,0,0,0,6,1,0,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/443234428F38B32A0081
+Prov. Jawa Barat,Kota Bogor,Kec. Kota Bogor Tengah,SMKS BINA SEJAHTERA 1 BOGOR,20220285,SMK,Swasta,-,0,0,0,0,0,40,3,1,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/F553697827C77C64B402
+Prov. Jawa Barat,Kota Bogor,Kec. Kota Bogor Tengah,SMKS BINA SEJAHTERA 2 KOTA BOGOR,20220286,SMK,Swasta,-,0,0,0,0,0,12,1,1,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/0ABBDB1A2D7275464ECD
+Prov. Jawa Barat,Kota Bogor,Kec. Kota Bogor Tengah,SMKS PGRI 2 BOGOR,20220290,SMK,Swasta,-,0,0,0,0,0,17,3,1,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/628FB88FC91FA74AF0B3
+Prov. Jawa Barat,Kota Bogor,Kec. Kota Bogor Tengah,SMKS RANTI MULA BOGOR,20238538,SMK,Swasta,-,0,0,0,0,0,9,3,1,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/3E36D2D369C38E0FA6B3
+Prov. Jawa Barat,Kota Bogor,Kec. Kota Bogor Tengah,SMKS TARUNA ANDIGHA,20220301,SMK,Swasta,-,0,0,0,0,0,25,3,1,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/4B953ED9908E0B4387D3
+Prov. Jawa Barat,Kota Bogor,Kec. Kota Bogor Tengah,SMKS WIDAYA ANANDA BOGOR,20220300,SMK,Swasta,-,0,0,0,0,0,3,1,1,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/E2BF866B2D2878BB6D11
+Prov. Jawa Barat,Kota Bogor,Kec. Kota Bogor Tengah,SMKS YATEK BARU BOGOR,20238542,SMK,Swasta,-,0,0,0,0,0,9,1,1,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/EA89A0E3464A81B51D92
+Prov. Jawa Barat,Kota Bogor,Kec. Kota Bogor Tengah,SMKS YZA 3 BOGOR,20220296,SMK,Swasta,-,0,0,0,0,0,9,1,1,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/AD997CCFFABCBA7B9B88
+Prov. Jawa Barat,Kota Bogor,Kec. Kota Bogor Tengah,SMKS YZA 4 BOGOR,20220297,SMK,Swasta,-,0,0,0,0,0,11,3,1,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/C1097E56765DF3E1CB88
+Prov. Jawa Barat,Kota Bogor,Kec. Kota Bogor Tengah,SLB-B DHARMA WANITA,20220542,SLB,Swasta,-,0,0,0,0,0,8,0,1,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/C9FC591493A92E4AE9BB
+Prov. Jawa Barat,Kota Bogor,Kec. Kota Bogor Tengah,SLB-C DHARMA WANITA KOTA BOGOR,20220544,SLB,Swasta,-,0,0,0,0,0,14,0,1,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/F4C00A0908616268E860
+Prov. Jawa Barat,Kota Bogor,Kec. Kota Bogor Tengah,SD THE INTERCULTURAL SCHOOL OF BOGOR,69853551,SPK SD,Swasta,-,0,0,0,0,0,3,1,1,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/34CACA73484A2A6F8CFD

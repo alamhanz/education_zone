@@ -1,0 +1,71 @@
+provinsi,kab_kota,kecamatan,nama_sekolah,npsn,bp,status,last_sync,jml_sync,pd,rombel,guru,pegawai,ruang_kelas,ruang_lab,ruang_perpus,url_sekolah
+Prov. Jawa Timur,Kab. Jember,Kec. Puger,SDN BAGON 01,20525126,SD,Negeri,-,0,0,0,0,0,6,0,0,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/C88158214A56B5E8D3F9
+Prov. Jawa Timur,Kab. Jember,Kec. Puger,SDN BAGON 02,20525127,SD,Negeri,-,0,0,0,0,0,6,0,1,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/A99127BB3B5848CAEEE2
+Prov. Jawa Timur,Kab. Jember,Kec. Puger,SDN BAGON 03,20525114,SD,Negeri,-,0,0,0,0,0,6,0,1,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/727DF9B294546B67EC3C
+Prov. Jawa Timur,Kab. Jember,Kec. Puger,SDN BAGON 04,20525113,SD,Negeri,-,0,0,0,0,0,6,0,0,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/6D4D61ACEBF92ECD8252
+Prov. Jawa Timur,Kab. Jember,Kec. Puger,SDN GRENDEN 01,20524805,SD,Negeri,-,0,0,0,0,0,13,0,1,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/B39E7F808D764C3898A3
+Prov. Jawa Timur,Kab. Jember,Kec. Puger,SDN GRENDEN 02,20524705,SD,Negeri,-,0,0,0,0,0,12,0,1,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/8195192EE6F38287F361
+Prov. Jawa Timur,Kab. Jember,Kec. Puger,SDN GRENDEN 03,20524706,SD,Negeri,-,0,0,0,0,0,8,0,1,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/3EB7807FB99B0DDE31E1
+Prov. Jawa Timur,Kab. Jember,Kec. Puger,SDN GRENDEN 04,20524707,SD,Negeri,-,0,0,0,0,0,6,0,1,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/A4255534FDA0E031F891
+Prov. Jawa Timur,Kab. Jember,Kec. Puger,SDN GRENDEN 05,20524709,SD,Negeri,-,0,0,0,0,0,8,0,1,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/60BB7E2404425F70251E
+Prov. Jawa Timur,Kab. Jember,Kec. Puger,SDN JAMBEARUM 01,20524737,SD,Negeri,-,0,0,0,0,0,9,0,1,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/F59CEA0D4B4FD3E2CACB
+Prov. Jawa Timur,Kab. Jember,Kec. Puger,SDN JAMBEARUM 02,20524736,SD,Negeri,-,0,0,0,0,0,6,0,1,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/23911FD729F17327F205
+Prov. Jawa Timur,Kab. Jember,Kec. Puger,SDN JAMBEARUM 03,20524738,SD,Negeri,-,0,0,0,0,0,6,0,0,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/69396B0F22E0F5297289
+Prov. Jawa Timur,Kab. Jember,Kec. Puger,SDN KASIYAN 01,20524841,SD,Negeri,-,0,0,0,0,0,7,0,1,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/F48E7235F2FD1C905EDF
+Prov. Jawa Timur,Kab. Jember,Kec. Puger,SDN KASIYAN 02,20524842,SD,Negeri,-,0,0,0,0,0,7,0,1,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/B6D06CC09F4F0E5D5D47
+Prov. Jawa Timur,Kab. Jember,Kec. Puger,SDN KASIYAN 03,20524843,SD,Negeri,-,0,0,0,0,0,6,0,0,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/CEF806B4BD80919F597C
+Prov. Jawa Timur,Kab. Jember,Kec. Puger,SDN KASIYAN 04,20524844,SD,Negeri,-,0,0,0,0,0,6,0,1,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/06ACC52532A064B8A9DA
+Prov. Jawa Timur,Kab. Jember,Kec. Puger,SDN KASIYAN TIMUR 01,20524845,SD,Negeri,-,0,0,0,0,0,10,0,1,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/7E4F229D6ACE89D1E155
+Prov. Jawa Timur,Kab. Jember,Kec. Puger,SDN KASIYAN TIMUR 02,20524846,SD,Negeri,-,0,0,0,0,0,11,1,1,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/1AB272870DD69EAB122F
+Prov. Jawa Timur,Kab. Jember,Kec. Puger,SDN KASIYAN TIMUR 03,20524848,SD,Negeri,-,0,0,0,0,0,10,0,1,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/B80FEC1D5C9BA92FF7EC
+Prov. Jawa Timur,Kab. Jember,Kec. Puger,SDN MLOKOREJO 01,20523724,SD,Negeri,-,0,0,0,0,0,6,0,0,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/072306BCCAA449174793
+Prov. Jawa Timur,Kab. Jember,Kec. Puger,SDN MLOKOREJO 02,20523725,SD,Negeri,-,0,0,0,0,0,6,0,0,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/CC0AD36273E9D6040EA6
+Prov. Jawa Timur,Kab. Jember,Kec. Puger,SDN MLOKOREJO 03,20523726,SD,Negeri,-,0,0,0,0,0,6,1,0,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/8BE13CCC10653FEE99D5
+Prov. Jawa Timur,Kab. Jember,Kec. Puger,SDN MLOKOREJO 04,20523727,SD,Negeri,-,0,0,0,0,0,6,0,1,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/0E5E01144ACA5AC0C900
+Prov. Jawa Timur,Kab. Jember,Kec. Puger,SDN MLOKOREJO 05,20523728,SD,Negeri,-,0,0,0,0,0,6,0,0,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/C50B4AC051F0E71C446E
+Prov. Jawa Timur,Kab. Jember,Kec. Puger,SDN MOJOMULYO 01,20523731,SD,Negeri,-,0,0,0,0,0,6,0,0,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/9D3B54F2CBBD02F02A01
+Prov. Jawa Timur,Kab. Jember,Kec. Puger,SDN MOJOMULYO 02,20523719,SD,Negeri,-,0,0,0,0,0,6,0,0,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/E9A8DC397D6BE3766F08
+Prov. Jawa Timur,Kab. Jember,Kec. Puger,SDN MOJOSARI 01,20523706,SD,Negeri,-,0,0,0,0,0,13,0,1,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/D740C85AA91E761209E7
+Prov. Jawa Timur,Kab. Jember,Kec. Puger,SDN MOJOSARI 02,20523707,SD,Negeri,-,0,0,0,0,0,6,0,1,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/6138363D8E959954ED21
+Prov. Jawa Timur,Kab. Jember,Kec. Puger,SDN MOJOSARI 03,20523708,SD,Negeri,-,0,0,0,0,0,12,0,1,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/D805171B4DCD8CE23C1F
+Prov. Jawa Timur,Kab. Jember,Kec. Puger,SDN MOJOSARI 04,20523709,SD,Negeri,-,0,0,0,0,0,7,0,1,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/75ECBB9BD258CCB649A5
+Prov. Jawa Timur,Kab. Jember,Kec. Puger,SDN PUGER KULON 01,20523250,SD,Negeri,-,0,0,0,0,0,20,0,1,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/52C76CD25FAF5F62AD45
+Prov. Jawa Timur,Kab. Jember,Kec. Puger,SDN PUGER KULON 02,20523251,SD,Negeri,-,0,0,0,0,0,11,0,1,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/9244C20F8EED6BA65199
+Prov. Jawa Timur,Kab. Jember,Kec. Puger,SDN PUGER KULON 03,20523253,SD,Negeri,-,0,0,0,0,0,10,0,1,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/1DA8953BBB538A3AB893
+Prov. Jawa Timur,Kab. Jember,Kec. Puger,SDN PUGER KULON 04,20523254,SD,Negeri,-,0,0,0,0,0,15,0,1,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/F129CCA601A364D25174
+Prov. Jawa Timur,Kab. Jember,Kec. Puger,SDN PUGER WETAN 01,20523256,SD,Negeri,-,0,0,0,0,0,11,0,1,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/FFC3154F0AAFEDE0A169
+Prov. Jawa Timur,Kab. Jember,Kec. Puger,SDN PUGER WETAN 02,20554099,SD,Negeri,-,0,0,0,0,0,6,0,1,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/80A6F06E81E05FA3A6E2
+Prov. Jawa Timur,Kab. Jember,Kec. Puger,SDN PUGER WETAN 03,20523257,SD,Negeri,-,0,0,0,0,0,5,0,1,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/2D88CF6CEA9132749E01
+Prov. Jawa Timur,Kab. Jember,Kec. Puger,SDN WONOSARI 01,20524095,SD,Negeri,-,0,0,0,0,0,6,0,1,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/5F0186F4987B51CBD857
+Prov. Jawa Timur,Kab. Jember,Kec. Puger,SDN WONOSARI 02,20524096,SD,Negeri,-,0,0,0,0,0,7,1,1,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/6B49BB839BD6C4FDCA7F
+Prov. Jawa Timur,Kab. Jember,Kec. Puger,SDN WONOSARI 03,20524097,SD,Negeri,-,0,0,0,0,0,6,0,1,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/90E564F484352E4E02A6
+Prov. Jawa Timur,Kab. Jember,Kec. Puger,SDN WRINGINTELU 01,20524134,SD,Negeri,-,0,0,0,0,0,6,0,1,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/067A15423C82C7377E5F
+Prov. Jawa Timur,Kab. Jember,Kec. Puger,SDN WRINGINTELU 02,20524135,SD,Negeri,-,0,0,0,0,0,8,0,1,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/BC780B8CFE62AA497754
+Prov. Jawa Timur,Kab. Jember,Kec. Puger,SDN WRINGINTELU 03,20524136,SD,Negeri,-,0,0,0,0,0,6,0,1,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/A10819EB49D87055809C
+Prov. Jawa Timur,Kab. Jember,Kec. Puger,SDS DARUS SHOLIHIN,69921445,SD,Swasta,-,0,0,0,0,0,7,0,0,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/D0C4AA1E8E9CDF4C0F7E
+Prov. Jawa Timur,Kab. Jember,Kec. Puger,SDS MUHAMMADIYAH,20525020,SD,Swasta,-,0,0,0,0,0,6,0,0,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/62952D80AA0AEA5E4A63
+Prov. Jawa Timur,Kab. Jember,Kec. Puger,SDS NU GRENDEN,20524941,SD,Swasta,-,0,0,0,0,0,8,0,1,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/B3C0B02A3B52761FAF68
+Prov. Jawa Timur,Kab. Jember,Kec. Puger,SDS NU WONOSARI,20524942,SD,Swasta,-,0,0,0,0,0,6,0,0,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/82C54CB1EF5784373A2F
+Prov. Jawa Timur,Kab. Jember,Kec. Puger,SMPN 1 PUGER,20523873,SMP,Negeri,-,0,0,0,0,0,27,3,1,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/2DAA6D35F6289DABB514
+Prov. Jawa Timur,Kab. Jember,Kec. Puger,SMPN 2 PUGER,20523861,SMP,Negeri,-,0,0,0,0,0,24,4,1,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/9129ABD7F1998F74D5A6
+Prov. Jawa Timur,Kab. Jember,Kec. Puger,SMPN 3 PUGER,69877201,SMP,Negeri,-,0,0,0,0,0,3,1,0,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/054F1FADB6B3291C1F65
+Prov. Jawa Timur,Kab. Jember,Kec. Puger,SMP ACHMAD JANI PUGER,20523941,SMP,Swasta,-,0,0,0,0,0,18,2,1,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/860DB7F802A2B2602908
+Prov. Jawa Timur,Kab. Jember,Kec. Puger,SMP ISLAM KASIYAN,20523943,SMP,Swasta,-,0,0,0,0,0,5,1,1,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/415B9A5BA4BAA7D34901
+Prov. Jawa Timur,Kab. Jember,Kec. Puger,SMP KARYA BHAKTI,20523942,SMP,Swasta,-,0,0,0,0,0,5,1,1,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/C5850D1C63E8449FF3BD
+Prov. Jawa Timur,Kab. Jember,Kec. Puger,SMP NURUL HUDA,20523915,SMP,Swasta,-,0,0,0,0,0,3,2,1,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/F900EF21B19141D60D5B
+Prov. Jawa Timur,Kab. Jember,Kec. Puger,SMP PLUS BUSTANUL ULUM,20523960,SMP,Swasta,-,0,0,0,0,0,15,1,1,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/8DFD8E0383D189DEB464
+Prov. Jawa Timur,Kab. Jember,Kec. Puger,SMP PLUS SUNAN GIRI,20549713,SMP,Swasta,-,0,0,0,0,0,3,1,1,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/2BFDC25F1D66509F787F
+Prov. Jawa Timur,Kab. Jember,Kec. Puger,SMP SULTAN AGUNG,20523952,SMP,Swasta,-,0,0,0,0,0,16,1,1,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/B34976BF3E2E99602BA5
+Prov. Jawa Timur,Kab. Jember,Kec. Puger,SMPS PGRI KASIYAN - PUGER,20523939,SMP,Swasta,-,0,0,0,0,0,6,1,1,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/FDE53CEBA64271FB72C3
+Prov. Jawa Timur,Kab. Jember,Kec. Puger,SMA PLUS BUSTANUL ULUM PUGER,20548344,SMA,Swasta,-,0,0,0,0,0,14,2,1,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/93C251F8FF88CD576E36
+Prov. Jawa Timur,Kab. Jember,Kec. Puger,SMAS ISLAM KASIYAN,20551682,SMA,Swasta,-,0,0,0,0,0,5,2,1,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/A40979C7E52BBA970A57
+Prov. Jawa Timur,Kab. Jember,Kec. Puger,SMAS PGRI KASIYAN,20523803,SMA,Swasta,-,0,0,0,0,0,9,1,1,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/B39FA6705F9C5CDC270A
+Prov. Jawa Timur,Kab. Jember,Kec. Puger,SMAS SULTAN AGUNG PUGER,20523839,SMA,Swasta,-,0,0,0,0,0,12,1,1,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/65330FE6E86913A971E3
+Prov. Jawa Timur,Kab. Jember,Kec. Puger,SMK PERIKANAN PERTANIAN TERPADU PUGER,69979989,SMK,Swasta,-,0,0,0,0,0,1,1,1,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/02E3138704E8E57CAA67
+Prov. Jawa Timur,Kab. Jember,Kec. Puger,SMKS AL - KHOLILY,69762689,SMK,Swasta,-,0,0,0,0,0,6,0,1,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/355E8D47E448313D194C
+Prov. Jawa Timur,Kab. Jember,Kec. Puger,SMKS AL MASRUROH,69960422,SMK,Swasta,-,0,0,0,0,0,2,1,1,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/45BE0D661E6934C82E9B
+Prov. Jawa Timur,Kab. Jember,Kec. Puger,SMKS DARUS SHOLIHIN PUGER,20555105,SMK,Swasta,22 Aug 2019 08:42:19,5,322,11,15,3,12,4,1,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/50C05F294355BBC4BFF7
+Prov. Jawa Timur,Kab. Jember,Kec. Puger,SMKS NURUL HIKMAH,20555088,SMK,Swasta,-,0,0,0,0,0,5,1,1,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/F32A24A43CF6E06DB8CA
+Prov. Jawa Timur,Kab. Jember,Kec. Puger,SMKS PERIKANAN DAN KELAUTAN,20523757,SMK,Swasta,-,0,0,0,0,0,19,3,1,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/4FA215C660E859EB9807
+Prov. Jawa Timur,Kab. Jember,Kec. Puger,SMKS PUGER PUGER,20523752,SMK,Swasta,-,0,0,0,0,0,10,1,1,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/BD6C442C69E054C2AEE5
+Prov. Jawa Timur,Kab. Jember,Kec. Puger,SMKS SUNAN GIRI,69922802,SMK,Swasta,-,0,0,0,0,0,3,0,0,http://dapo.dikdasmen.kemdikbud.go.id/sekolah/B0997A76EE54BD9C414C
