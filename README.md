@@ -1,6 +1,6 @@
 # Ruang Edukasi Indonesia 
 It starts with New Zonasi Rule from Govt Indonesia that 
-This project is running within May to Sept 2019. 
+This project is running within June to Nov 2019. 
 
 
 Methodology :

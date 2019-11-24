@@ -1,7 +1,5 @@
 template source : https://drivendata.github.io/cookiecutter-data-science/
 
-
-
 http://comet.lehman.cuny.edu/owen/teaching/datasci/voronoiLab.html
 https://www.kdnuggets.com/2018/09/visualising-geospatial-data-python-folium.html
 https://blog.dominodatalab.com/creating-interactive-crime-maps-with-folium/
